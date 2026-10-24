@@ -1,120 +1,110 @@
-<p align="center">
-  <img src="./banner.png" alt="Asmit Sarkar - Developer Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Asmit Sarkar</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HERO BANNER (Custom Animated SVG + Embedded AI Portrait)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-hero.svg" width="100%" alt="Asmit Sarkar — Web Developer, Android Developer, AI & Automation" />
 
-<h3 align="center">
-  Web Development • Android • AI & Automation
-</h3>
+<br/>
 
-<p align="center">
-  Building useful applications, learning new technologies,
-  and turning ideas into real-world projects.
-</p>
+[![GitHub Profile](https://img.shields.io/badge/GITHUB-ASMITSR-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr)
+[![Obsidian Plugin](https://img.shields.io/badge/OBSIDIAN_PLUGIN-TOMORROW_DAILY_NOTE-701A3D?style=for-the-badge&logo=obsidian&logoColor=E5B5C7&labelColor=190B12)](https://community.obsidian.md/plugins/tomorrow-daily-note)
+[![SnehaAI](https://img.shields.io/badge/AI_PROJECT-SNEHAAI-701A3D?style=for-the-badge&logo=sparkles&logoColor=E5B5C7&labelColor=190B12)](https://github.com/asmitsr/SnehaAI)
+[![Location](https://img.shields.io/badge/LOCATION-CHATTOGRAM,_BD-451126?style=for-the-badge&logo=googlemaps&logoColor=C77B9B&labelColor=190B12)](https://github.com/asmitsr)
 
-<p align="center">
-  📍 Chattogram, Bangladesh
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/asmitsr">
-    <img src="https://img.shields.io/badge/GitHub-asmitsr-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     01 · ABOUT ME
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-about.svg" width="100%" alt="01 About — Hello, I'm Asmit." />
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     02 · RECOGNITION & MILESTONES
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-highlights.svg" width="100%" alt="02 Recognition — Proof, on the record." />
 
-- 🌐 Interested in Web Development
-- 📱 Exploring Android App Development
-- 🤖 Learning AI and Automation
-- 🛠️ Building practical projects
-- 📚 Improving my coding and problem-solving skills
+<br/><br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     03 · SELECTED WORK (Products, not assignments.)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-projects-header.svg" width="100%" alt="03 Selected Work — Products, not assignments." />
 
-## 🧰 Technologies & Tools
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</p>
+<a href="https://github.com/asmitsr/SnehaAI">
+  <img src="./assets/project-01-snehaai.svg" width="100%" alt="SnehaAI — Exploring AI-powered applications and intelligent digital experiences." />
+</a>
 
----
+[![SnehaAI Repository](https://img.shields.io/badge/REPOSITORY-SNEHAAI-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr/SnehaAI)
 
-## 🚀 Featured Projects
+<br/>
 
-### 🤖 SnehaAI
-Exploring AI-powered applications and intelligent digital experiences.
+<a href="https://github.com/asmitsr/minimal-launcher">
+  <img src="./assets/project-02-launcher.svg" width="100%" alt="Minimal Launcher — An Android launcher focused on a clean, minimal user experience." />
+</a>
 
-[View Repository →](https://github.com/asmitsr/SnehaAI)
+[![Minimal Launcher Repository](https://img.shields.io/badge/REPOSITORY-MINIMAL_LAUNCHER-701A3D?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12)](https://github.com/asmitsr/minimal-launcher)
 
-### 📱 Minimal Launcher
-An Android launcher focused on a clean, minimal user experience.
+<br/>
 
-[View Repository →](https://github.com/asmitsr/minimal-launcher)
+<a href="https://github.com/asmitsr/hsc-tracker">
+  <img src="./assets/project-03-hsctracker.svg" width="100%" alt="HSC Tracker — A study-focused project for tracking HSC syllabus progress." />
+</a>
 
-### 📚 HSC Tracker
-A study-focused project for tracking HSC syllabus progress.
+[![HSC Tracker Repository](https://img.shields.io/badge/REPOSITORY-HSC_TRACKER-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr/hsc-tracker)
 
-[View Repository →](https://github.com/asmitsr/hsc-tracker)
+<br/>
 
-### ❤️ Aksharoloy
-A personal project dedicated to my mother.
+<a href="https://github.com/asmitsr/Aksharoloy">
+  <img src="./assets/project-04-aksharoloy.svg" width="100%" alt="Aksharoloy — A personal project dedicated to my mother." />
+</a>
 
-[View Repository →](https://github.com/asmitsr/Aksharoloy)
+[![Aksharoloy Repository](https://img.shields.io/badge/REPOSITORY-AKSHAROLOY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr/Aksharoloy)
+[![Tomorrow Daily Note Plugin](https://img.shields.io/badge/OBSIDIAN_PLUGIN-TOMORROW_DAILY_NOTE-451126?style=for-the-badge&logo=obsidian&logoColor=E5B5C7&labelColor=190B12)](https://community.obsidian.md/plugins/tomorrow-daily-note)
 
----
+<br/><br/>
 
-## 📊 GitHub Statistics
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     04 · TOOLKIT (The tools I reach for.)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for." />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmitsr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Asmit's GitHub Stats" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     05 · COMMIT LOG & GITHUB STATISTICS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-contributions.svg" width="100%" alt="05 Commit Log — A year of building." />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=asmitsr&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<br/>
 
----
+<picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asmitsr&show_icons=true&bg_color=190B12&title_color=F8F0F3&text_color=E5B5C7&icon_color=C77B9B&border_color=701A3D&border_radius=14" alt="Asmit Sarkar GitHub Stats" />
+</picture>
+<picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsr&layout=compact&bg_color=190B12&title_color=F8F0F3&text_color=E5B5C7&border_color=701A3D&border_radius=14" alt="Most Used Languages" />
+</picture>
 
-## 🎯 Current Focus
+<br/><br/>
 
-- Building useful and user-friendly applications
-- Exploring AI-powered automation
-- Writing cleaner, maintainable code
-- Improving problem-solving skills
-- Turning ideas into polished projects
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     06 · CONNECT & ANIMATED FOOTER
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/asmit-connect-header.svg" width="100%" alt="06 Connect — Let's build something worth explaining." />
 
----
+<br/>
 
-## 🤝 Connect With Me
+[![GitHub](https://img.shields.io/badge/GITHUB-GITHUB.COM/ASMITSR-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr)
+[![Obsidian Plugin](https://img.shields.io/badge/OBSIDIAN-TOMORROW_DAILY_NOTE-701A3D?style=for-the-badge&logo=obsidian&logoColor=E5B5C7&labelColor=190B12)](https://community.obsidian.md/plugins/tomorrow-daily-note)
+[![SnehaAI](https://img.shields.io/badge/PROJECT-SNEHAAI-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12)](https://github.com/asmitsr/SnehaAI)
+[![Minimal Launcher](https://img.shields.io/badge/ANDROID-MINIMAL_LAUNCHER-451126?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12)](https://github.com/asmitsr/minimal-launcher)
 
-<p align="left">
-  <a href="https://github.com/asmitsr">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<br/>
 
-📍 Chattogram, Bangladesh
+<img src="./assets/asmit-footer.svg" width="100%" alt="Asmit Sarkar — Building useful applications, learning new technologies, and turning ideas into real-world projects." />
 
----
-
-<p align="center">
-  <b>Build. Learn. Improve. Repeat.</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+</div>
