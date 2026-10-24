@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 390" width="100%" role="img" aria-label="02 Recognition — Proof, on the record.">
+  <defs>
+    <linearGradient id="rec-card-left" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190B12"/>
+      <stop offset="55%" stop-color="#380E20"/>
+      <stop offset="100%" stop-color="#5C1633"/>
+    </linearGradient>
+    <linearGradient id="rec-card-right" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190B12"/>
+      <stop offset="60%" stop-color="#2E0C1B"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="rec-rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#701A3D" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Section Header -->
+  <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">02   RECOGNITION &amp; MILESTONES</text>
+  <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">OPEN SOURCE  ·  PLUGINS  ·  APPS</text>
+  <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Proof, on the record<tspan fill="#C77B9B">.</tspan></text>
+  <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#rec-rule)" stroke-width="1.5"/>
+
+  <!-- Left Spotlight Card: Obsidian Community Plugin -->
+  <g transform="translate(0, 100)">
+    <rect x="0" y="0" width="528" height="168" rx="16" fill="url(#rec-card-left)" stroke="#701A3D" stroke-width="1.3"/>
+    <text x="510" y="92" text-anchor="end" fill="#C77B9B" fill-opacity="0.12" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">PLUGIN</text>
+    <text x="28" y="42" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.0">OBSIDIAN ECOSYSTEM   ·   PUBLISHED PLUGIN</text>
+    <text x="28" y="88" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Tomorrow Daily Note</text>
+    <text x="28" y="118" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Smart template token substitution &amp; zero-overwrite planner</text>
+    <line x1="28" y1="132" x2="210" y2="132" stroke="#C77B9B" stroke-width="1.5"/>
+    <text x="28" y="152" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Desktop &amp; Mobile (iOS / Android)  ·  MIT Licensed</text>
+  </g>
+
+  <!-- Right Spotlight Card: Open Source Ecosystem -->
+  <g transform="translate(552, 100)">
+    <rect x="0" y="0" width="528" height="168" rx="16" fill="url(#rec-card-right)" stroke="#701A3D" stroke-width="1.3"/>
+    <text x="510" y="92" text-anchor="end" fill="#C77B9B" fill-opacity="0.12" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">SHIPPED</text>
+    <text x="28" y="42" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.0">AI, ANDROID &amp; WEB   ·   REAL-WORLD PROJECTS</text>
+    <text x="28" y="88" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">5+ Core Applications</text>
+    <text x="28" y="118" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">SnehaAI, Minimal Launcher, HSC Tracker &amp; Aksharoloy</text>
+    <line x1="28" y1="132" x2="210" y2="132" stroke="#C77B9B" stroke-width="1.5"/>
+    <text x="28" y="152" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Built from scratch  ·  Public GitHub Repositories</text>
+  </g>
+
+  <!-- Bottom 5-Column Verified Metrics Bar -->
+  <g transform="translate(0, 280)">
+    <rect x="0" y="0" width="1080" height="98" rx="16" fill="#160810" stroke="#451126" stroke-width="1.2"/>
+    <!-- Dividers -->
+    <line x1="216" y1="18" x2="216" y2="80" stroke="#451126" stroke-width="1"/>
+    <line x1="432" y1="18" x2="432" y2="80" stroke="#451126" stroke-width="1"/>
+    <line x1="648" y1="18" x2="648" y2="80" stroke="#451126" stroke-width="1"/>
+    <line x1="864" y1="18" x2="864" y2="80" stroke="#451126" stroke-width="1"/>
+
+    <!-- Metric 1 -->
+    <text x="28" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">PRIMARY STACK</text>
+    <text x="28" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">81.07%</text>
+    <text x="28" y="82" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Kotlin · Android Apps</text>
+
+    <!-- Metric 2 -->
+    <text x="244" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">WEB FRONTEND</text>
+    <text x="244" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">18.20%</text>
+    <text x="244" y="82" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">HTML5 · CSS3 · JS</text>
+
+    <!-- Metric 3 -->
+    <text x="460" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">FEATURED REPOS</text>
+    <text x="460" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">5+</text>
+    <text x="460" y="82" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Open-source projects</text>
+
+    <!-- Metric 4 -->
+    <text x="676" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">CONTRIBUTIONS</text>
+    <text x="676" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">33+</text>
+    <text x="676" y="82" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">29+ commits · 4★ earned</text>
+
+    <!-- Metric 5 -->
+    <text x="892" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.6">LOCATION</text>
+    <text x="892" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">BD</text>
+    <text x="892" y="82" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Chattogram, Bangladesh</text>
+  </g>
+</svg>

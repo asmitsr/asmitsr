@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 264" width="100%" role="img" aria-label="Minimal Launcher">
+  <defs>
+    <linearGradient id="pcard-bg-02" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14070E"/>
+      <stop offset="55%" stop-color="#220B16"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <radialGradient id="pcard-glow-02" cx="82%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#14070E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-bg-02)"/>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-glow-02)"/>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="none" stroke="#701A3D" stroke-width="1.3"/>
+
+  <!-- Left Content -->
+  <text x="36" y="38" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.2">02   ·   ANDROID  ·  MOBILE UX  ·  CUSTOM LAUNCHER</text>
+  <text x="36" y="80" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="36" font-weight="700">Minimal Launcher</text>
+  <text x="36" y="108" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15.5">An Android launcher focused on a clean, distraction-free, minimal user experience.</text>
+  <text x="36" y="132" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700">BUILT  ·  <tspan fill="#F8F0F3" font-weight="400">lightweight Kotlin architecture + fast app indexing + clutter-free home screen</tspan></text>
+
+  <!-- Metrics Row -->
+  <text x="36" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">100%</text><text x="36" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">distraction-free UI</text><text x="231" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Kotlin</text><text x="231" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">native Android performance</text><text x="426" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Minimal</text><text x="426" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">zero bloatware design</text>
+
+  <!-- Tech Pills -->
+  <rect x="36" y="212" width="77" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="75" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Kotlin</text><rect x="123.19999999999999" y="212" width="118" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="182" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Android SDK</text><rect x="251.39999999999998" y="212" width="110" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="306" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Minimal UI</text><rect x="371.4" y="212" width="102" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="422" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Mobile UX</text><rect x="483.2" y="212" width="53" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="510" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Git</text>
+
+  <!-- Right Diagram -->
+  
+  <g transform="translate(720, 34)">
+    <rect x="0" y="0" width="320" height="196" rx="14" fill="#15070E" fill-opacity="0.75" stroke="#701A3D" stroke-width="1.1"/>
+    <text x="20" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6">MINIMAL ANDROID UX</text>
+    <!-- Phone Wireframe -->
+    <rect x="24" y="44" width="92" height="134" rx="12" fill="#210915" stroke="#C77B9B" stroke-width="1.2"/>
+    <text x="70" y="72" text-anchor="middle" fill="#F8F0F3" font-family="Georgia, serif" font-size="13" font-weight="700">10:41</text>
+    <line x1="38" y1="88" x2="102" y2="88" stroke="#701A3D" stroke-width="1.5"/>
+    <line x1="38" y1="106" x2="90" y2="106" stroke="#C77B9B" stroke-width="1.5"/>
+    <line x1="38" y1="124" x2="96" y2="124" stroke="#701A3D" stroke-width="1.5"/>
+    <line x1="38" y1="142" x2="82" y2="142" stroke="#701A3D" stroke-width="1.5"/>
+    <!-- Feature Nodes -->
+    <rect x="136" y="48" width="164" height="34" rx="8" fill="#380E20" stroke="#701A3D" stroke-width="1"/>
+    <text x="218" y="69" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Zero Visual Clutter</text>
+    <rect x="136" y="94" width="164" height="34" rx="8" fill="#2A0C1B" stroke="#701A3D" stroke-width="1"/>
+    <text x="218" y="115" text-anchor="middle" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Instant App Launch</text>
+    <rect x="136" y="140" width="164" height="34" rx="8" fill="#210915" stroke="#701A3D" stroke-width="1"/>
+    <text x="218" y="161" text-anchor="middle" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Native Kotlin Speed</text>
+  </g>
+
+</svg>

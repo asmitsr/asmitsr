@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 210" width="100%" role="img" aria-label="Asmit Sarkar — Building useful applications, learning new technologies, and turning ideas into real-world projects.">
+  <defs>
+    <linearGradient id="foot-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12060C"/>
+      <stop offset="50%" stop-color="#2B0B19"/>
+      <stop offset="100%" stop-color="#14070D"/>
+    </linearGradient>
+    <radialGradient id="foot-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.55">
+        <animate attributeName="stop-opacity" values="0.4;0.7;0.4" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#12060C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1076" height="206" rx="20" fill="url(#foot-bg)" stroke="#701A3D" stroke-width="1.3"/>
+  <rect x="2" y="2" width="1076" height="206" rx="20" fill="url(#foot-glow)"/>
+
+  <!-- Subtle Twinkling Particles -->
+  <circle cx="180" cy="64" r="2" fill="#C77B9B">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="310" cy="146" r="1.8" fill="#E5B5C7">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="58" r="2.2" fill="#C77B9B">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="890" cy="152" r="1.8" fill="#E5B5C7">
+    <animate attributeName="opacity" values="0.9;0.25;0.9" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="540" y="86" text-anchor="middle" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="44" font-weight="700">Asmit Sarkar</text>
+  <text x="540" y="124" text-anchor="middle" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', Times, serif" font-size="16.5" font-style="italic">Building useful applications, learning new technologies, and turning ideas into real-world projects.</text>
+  <text x="540" y="158" text-anchor="middle" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6">WEB DEVELOPMENT   ·   ANDROID   ·   AI &amp; AUTOMATION   ·   CHATTOGRAM, BANGLADESH</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 264" width="100%" role="img" aria-label="HSC Tracker">
+  <defs>
+    <linearGradient id="pcard-bg-03" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14070E"/>
+      <stop offset="55%" stop-color="#220B16"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <radialGradient id="pcard-glow-03" cx="82%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#14070E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-bg-03)"/>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-glow-03)"/>
+  <rect x="2" y="2" width="1076" height="260" rx="18" fill="none" stroke="#701A3D" stroke-width="1.3"/>
+
+  <!-- Left Content -->
+  <text x="36" y="38" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.2">03   ·   EDTECH  ·  STUDY PRODUCTIVITY  ·  WEB APP</text>
+  <text x="36" y="80" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="36" font-weight="700">HSC Tracker</text>
+  <text x="36" y="108" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15.5">A study-focused project for tracking HSC syllabus progress and exam readiness.</text>
+  <text x="36" y="132" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="700">BUILT  ·  <tspan fill="#F8F0F3" font-weight="400">interactive syllabus checklist + subject progress analytics + responsive student dashboard</tspan></text>
+
+  <!-- Metrics Row -->
+  <text x="36" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">HSC</text><text x="36" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">complete syllabus tracker</text><text x="231" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Visual</text><text x="231" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">real-time progress metrics</text><text x="426" y="172" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Web</text><text x="426" y="192" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">mobile-friendly interface</text>
+
+  <!-- Tech Pills -->
+  <rect x="36" y="212" width="69" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="70" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">HTML5</text><rect x="115.0" y="212" width="61" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="145" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">CSS3</text><rect x="185.8" y="212" width="110" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="241" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">JavaScript</text><rect x="305.8" y="212" width="143" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="377" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Responsive Web</text><rect x="458.6" y="212" width="126" height="28" rx="14" fill="#2A0B18" stroke="#701A3D" stroke-width="1"/><text x="522" y="230" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">Productivity</text>
+
+  <!-- Right Diagram -->
+  
+  <g transform="translate(720, 34)">
+    <rect x="0" y="0" width="320" height="196" rx="14" fill="#15070E" fill-opacity="0.75" stroke="#701A3D" stroke-width="1.1"/>
+    <text x="20" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6">SYLLABUS PROGRESS ENGINE</text>
+    <text x="20" y="58" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Physics &amp; Math</text>
+    <rect x="20" y="66" width="280" height="8" rx="4" fill="#2A0C1B"/>
+    <rect x="20" y="66" width="238" height="8" rx="4" fill="#C77B9B"/>
+    <text x="20" y="98" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Chemistry &amp; ICT</text>
+    <rect x="20" y="106" width="280" height="8" rx="4" fill="#2A0C1B"/>
+    <rect x="20" y="106" width="210" height="8" rx="4" fill="#9E5072"/>
+    <text x="20" y="138" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Revision &amp; Mock Tests</text>
+    <rect x="20" y="146" width="280" height="8" rx="4" fill="#2A0C1B"/>
+    <rect x="20" y="146" width="256" height="8" rx="4" fill="#E5B5C7"/>
+    <text x="20" y="180" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">✓ Chapter-by-chapter completion tracking</text>
+  </g>
+
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 92" width="100%" role="img" aria-label="03 Selected Work — Products, not assignments.">
+  <defs>
+    <linearGradient id="proj-rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#701A3D" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">03   SELECTED WORK</text>
+  <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">FOUR SYSTEMS  ·  REAL UTILITY</text>
+  <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Products, not assignments<tspan fill="#C77B9B">.</tspan></text>
+  <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#proj-rule)" stroke-width="1.5"/>
+</svg>
