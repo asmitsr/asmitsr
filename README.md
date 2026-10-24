@@ -1,90 +1,93 @@
-👋 Hi, I'm Asmit Sarkar
 
-💻 Developer | Web Development • Android • AI Automation
+<h1 align="center">Hi 👋, I'm Asmit Sarkar</h1>
 
-I enjoy building digital products, exploring new technologies, and turning creative ideas into practical solutions.
+<h3 align="center">Developer | Web Development | Android | AI & Automation</h3>
 
-🚀 Always learning. Always building. Always improving.
+<p align="center">
+  Building practical digital products and turning ideas into useful applications.
+</p>
+
+<p align="center">
+  📍 Chattogram, Bangladesh
+</p>
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌐 Interested in Web Development
 - 📱 Exploring Android App Development
-- 🤖 Building and experimenting with AI & Automation
-- 🛠️ Learning by creating practical projects
-- 🇧🇩 Based in Chattogram, Bangladesh
+- 🤖 Learning about AI and Automation
+- 🛠️ Building projects to solve practical problems
+- 📚 Continuously learning and improving my skills
 
 ---
 
-🧰 Technologies & Tools
+## 🧰 Technologies & Tools
 
-Languages
+**Languages & Development**
 
-"HTML" · "CSS" · "JavaScript" · "Kotlin"
+`HTML` · `CSS` · `JavaScript` · `Kotlin`
 
-Tools & Platforms
+**Tools & Platforms**
 
-"Git" · "GitHub" · "Android Studio" · "AI Tools"
+`Git` · `GitHub` · `Android Studio` · `AI Tools`
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🤖 SnehaAI
-
+### 🤖 SnehaAI
 Exploring AI-powered applications and intelligent digital experiences.
 
-🔗 "View Repository" (https://github.com/asmitsr/SnehaAI)
+[View Repository →](https://github.com/asmitsr/SnehaAI)
 
-📱 Minimal Launcher
-
+### 📱 Minimal Launcher
 An Android launcher project focused on a clean and minimal user experience.
 
-🔗 "View Repository" (https://github.com/asmitsr/minimal-launcher)
+[View Repository →](https://github.com/asmitsr/minimal-launcher)
 
-📚 HSC Tracker
-
+### 📚 HSC Tracker
 A study-focused project designed to help track HSC syllabus progress.
 
-🔗 "View Repository" (https://github.com/asmitsr/hsc-tracker)
+[View Repository →](https://github.com/asmitsr/hsc-tracker)
 
-❤️ Aksharoloy
-
+### ❤️ Aksharoloy
 A personal project dedicated to my mother, whose support and belief inspire me.
 
-🔗 "View Repository" (https://github.com/asmitsr/Aksharoloy)
+[View Repository →](https://github.com/asmitsr/Aksharoloy)
 
 ---
 
-🎯 What I'm Working Towards
+## 🎯 Current Focus
 
 - Building useful and user-friendly applications
-- Improving my development and problem-solving skills
 - Exploring AI-powered automation
-- Writing cleaner, more maintainable code
-- Turning ideas into polished projects
+- Improving problem-solving skills
+- Writing clean and maintainable code
+- Turning ideas into practical projects
 
 ---
 
-📊 My Developer Journey
+## 📈 My Developer Journey
 
-I believe progress comes from consistent learning, experimentation, and building real projects.
+I believe in learning by building, experimenting, and improving every day.
 
-Every project is an opportunity to learn something new and improve.
-
----
-
-🤝 Connect With Me
-
-- 💻 GitHub: "@asmitsr" (https://github.com/asmitsr)
-- 📍 Chattogram, Bangladesh
+My goal is to create meaningful digital products that solve real-world problems.
 
 ---
 
-💡 My Motto
+## 🤝 Connect With Me
 
-Build. Learn. Improve. Repeat.
+- **GitHub:** [@asmitsr](https://github.com/asmitsr)
+- **Location:** Chattogram, Bangladesh
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
