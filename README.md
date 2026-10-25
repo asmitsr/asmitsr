@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero-clean.svg" width="100%" alt="Asmit Sarkar" />
+<img src="./hero-final.svg" width="100%" alt="Asmit Sarkar" />
 
 <br/>
 
@@ -11,11 +11,11 @@
 
 <br/><br/>
 
-<img src="./about-clean.svg" width="100%" alt="01 About" />
+<img src="./about-final.svg" width="100%" alt="01 About" />
 
 <br/><br/>
 
-<img src="./highlights-clean.svg" width="100%" alt="02 Recognition" />
+<img src="./highlights-final.svg" width="100%" alt="02 Recognition" />
 
 <br/><br/>
 
@@ -53,21 +53,21 @@
 
 <br/><br/>
 
-<a href="https://github.com/asmitsr/Aksharoloy">
-  <img src="./assets/project-04-aksharoloy.svg" width="100%" alt="Aksharoloy" />
+<a href="https://github.com/asmitsr/Akshoraloy">
+  <img src="./card-akshoraloy.svg" width="100%" alt="Akshoraloy" />
 </a>
 
 <br/>
 
-<a href="https://github.com/asmitsr/Aksharoloy"><img src="https://img.shields.io/badge/REPOSITORY-AKSHAROLOY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Aksharoloy Repository" /></a>
+<a href="https://github.com/asmitsr/Akshoraloy"><img src="https://img.shields.io/badge/REPOSITORY-AKSHORALOY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Akshoraloy Repository" /></a>
 
 <br/><br/>
 
-<img src="./toolkit-clean.svg" width="100%" alt="04 Toolkit" />
+<img src="./toolkit-final.svg" width="100%" alt="04 Toolkit" />
 
 <br/><br/>
 
-<img src="./bottom-clean.svg" width="100%" alt="05 Commit Log, 06 Engineering Philosophy, and 07 Public Repositories" />
+<img src="./bottom-final.svg" width="100%" alt="05 Commit Log, 06 Engineering Philosophy, and 07 All 7 Public Repositories" />
 
 <br/><br/>
 
@@ -79,6 +79,9 @@
 <a href="https://github.com/asmitsr/DoremanAI"><img src="https://img.shields.io/badge/PROJECT-DOREMANAI-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="DoremanAI" /></a>
 <a href="https://github.com/asmitsr/minimal-launcher"><img src="https://img.shields.io/badge/ANDROID-MINIMAL_LAUNCHER-451126?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12" alt="Minimal Launcher" /></a>
 <a href="https://github.com/asmitsr/hsc-tracker"><img src="https://img.shields.io/badge/WEB_APP-HSC_TRACKER-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="HSC Tracker" /></a>
+<a href="https://github.com/asmitsr/Akshoraloy"><img src="https://img.shields.io/badge/PROJECT-AKSHORALOY-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Akshoraloy" /></a>
+<a href="https://github.com/asmitsr/chattogram-puja"><img src="https://img.shields.io/badge/WEB-CHATTOGRAM_PUJA-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Chattogram Puja" /></a>
+<a href="https://github.com/asmitsr/Reader-Calculator"><img src="https://img.shields.io/badge/TOOL-READER_CALCULATOR-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Reader Calculator" /></a>
 
 <br/><br/>
 
