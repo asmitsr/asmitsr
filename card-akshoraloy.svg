@@ -10,6 +10,8 @@
       <stop offset="100%" stop-color="#14070E" stop-opacity="0"/>
     </radialGradient>
   </defs>
+  <rect x="0" y="0" width="1080" height="264" fill="#190B12"/>
+
   <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-bg-04)"/>
   <rect x="2" y="2" width="1076" height="260" rx="18" fill="url(#pcard-glow-04)"/>
   <rect x="2" y="2" width="1076" height="260" rx="18" fill="none" stroke="#701A3D" stroke-width="1.3"/>
