@@ -52,14 +52,14 @@
 
       <text x="130" y="14" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.4">COMMITS</text>
       <text x="130" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">92</text>
-      <text x="130" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Across 7 repos</text>
+      <text x="130" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Across 9 repos</text>
 
       <text x="245" y="14" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.4">STREAK</text>
       <text x="245" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">3d</text>
       <text x="245" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Active streak</text>
 
       <text x="350" y="14" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.4">STARS</text>
-      <text x="350" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">5 &#9733;</text>
+      <text x="350" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">8 &#9733;</text>
       <text x="350" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Public repos</text>
     </g>
 
@@ -72,7 +72,7 @@
 
     <path d="M 580,154 L 686,154 L 686,208 L 792,208 L 792,172 L 916,172 L 916,244 L 970,244" fill="none" stroke="#F8F0F3" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="60 420"/>
 
-    <text x="36" y="296" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.0">SOURCE: PUBLIC GITHUB CONTRIBUTIONS FOR @ASMITSR   &#183;   92 COMMITS IN 7 REPOSITORIES</text>
+    <text x="36" y="296" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.0">SOURCE: PUBLIC GITHUB CONTRIBUTIONS FOR @ASMITSR   &#183;   92 COMMITS IN 9 REPOSITORIES</text>
     <g transform="translate(880, 285)">
       <text x="0" y="11" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">Less</text>
       <rect x="32" y="1" width="11" height="11" rx="2" fill="#220B16"/>
@@ -89,7 +89,7 @@
     <text x="142" y="36" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">GitHub at a glance</text>
     <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" fill="#E5B5C7">
       <text x="142" y="68">&#9733;  Total Stars Earned:</text>
-      <text x="494" y="68" text-anchor="end" fill="#F8F0F3" font-weight="700">5</text>
+      <text x="494" y="68" text-anchor="end" fill="#F8F0F3" font-weight="700">8</text>
 
       <text x="142" y="94">&#9679;  Total Commits (last year):</text>
       <text x="494" y="94" text-anchor="end" fill="#F8F0F3" font-weight="700">92</text>
@@ -101,7 +101,7 @@
       <text x="494" y="146" text-anchor="end" fill="#F8F0F3" font-weight="700">1</text>
 
       <text x="142" y="172">&#9632;  Public Repositories:</text>
-      <text x="494" y="172" text-anchor="end" fill="#F8F0F3" font-weight="700">7</text>
+      <text x="494" y="172" text-anchor="end" fill="#F8F0F3" font-weight="700">9</text>
     </g>
 
     <rect x="550" y="0" width="420" height="196" rx="16" fill="url(#glance-bg)" stroke="#701A3D" stroke-width="1.2"/>
@@ -168,9 +168,9 @@
   </g>
 
   <g transform="translate(0, 1042)">
-    <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">07   ALL 7 PUBLIC REPOSITORIES</text>
+    <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">07   ALL 9 PUBLIC REPOSITORIES</text>
     <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">ANDROID  &#183;  WEB  &#183;  AI &amp; AUTOMATION</text>
-    <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Seven public repositories, verified<tspan fill="#C77B9B">.</tspan></text>
+    <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Nine public repositories, verified<tspan fill="#C77B9B">.</tspan></text>
     <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#commit-rule)" stroke-width="1.5"/>
 
     <g transform="translate(0, 100)">
