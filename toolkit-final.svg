@@ -12,6 +12,8 @@
       <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
     </linearGradient>
   </defs>
+  <rect x="0" y="0" width="1080" height="430" fill="#190B12"/>
+
 
   <!-- Section Header -->
   <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">04   TOOLKIT</text>
