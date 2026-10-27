@@ -82,8 +82,9 @@
 <a href="https://github.com/asmitsr/minimal-launcher"><img src="https://img.shields.io/badge/ANDROID-MINIMAL_LAUNCHER-451126?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12" alt="Minimal Launcher" /></a>
 <a href="https://github.com/asmitsr/hsc-tracker"><img src="https://img.shields.io/badge/WEB_APP-HSC_TRACKER-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="HSC Tracker" /></a>
 <a href="https://github.com/asmitsr/Akshoraloy"><img src="https://img.shields.io/badge/PROJECT-AKSHORALOY-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Akshoraloy" /></a>
-<a href="https://github.com/asmitsr/skill-dna"><img src="https://img.shields.io/badge/PROJECT-SKILL_DNA-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Skill DNA" /></a>
+<a href="https://github.com/asmitsr/asmitsr/blob/main/private-projects.md"><img src="https://img.shields.io/badge/WEB-CHATTOGRAM_PUJA_PRIVATE-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Chattogram Puja (Private)" /></a>
 <a href="https://github.com/asmitsr/Reader-Calculator"><img src="https://img.shields.io/badge/TOOL-READER_CALCULATOR-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Reader Calculator" /></a>
+<a href="https://github.com/asmitsr/skill-dna"><img src="https://img.shields.io/badge/PROJECT-SKILL_DNA-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Skill DNA" /></a>
 
 <br/><br/>
 
