@@ -43,6 +43,8 @@
       <feGaussianBlur stdDeviation="3.5"/>
     </filter>
   </defs>
+  <rect x="0" y="0" width="1080" height="450" fill="#190B12"/>
+
 
   <g clip-path="url(#asmit-card-clip)">
     <rect x="2" y="2" width="1076" height="446" rx="22" fill="url(#asmit-hero-bg)"/>
