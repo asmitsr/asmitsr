@@ -12,6 +12,8 @@
       <stop offset="100%" stop-color="#12060C" stop-opacity="0"/>
     </radialGradient>
   </defs>
+  <rect x="0" y="0" width="1080" height="210" fill="#190B12"/>
+
 
   <rect x="2" y="2" width="1076" height="206" rx="20" fill="url(#foot-bg)" stroke="#701A3D" stroke-width="1.3"/>
   <rect x="2" y="2" width="1076" height="206" rx="20" fill="url(#foot-glow)"/>
