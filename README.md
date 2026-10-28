@@ -67,7 +67,7 @@
 
 <br/><br/>
 
-<img src="./bottom-final.svg" width="100%" alt="05 Commit Log, 06 Engineering Philosophy, and 07 All 7 Public Repositories" />
+<img src="./bottom-final.svg" width="100%" alt="05 Commit Log, 06 Engineering Philosophy, and 07 All Repositories" />
 
 <br/><br/>
 
