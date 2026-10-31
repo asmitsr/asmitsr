@@ -12,4 +12,9 @@ The following projects are currently **Private**.
 - Repository: https://github.com/asmitsr/lumen-garden
 - Status: This repository is currently Private. Only the owner and collaborators can access it.
 
+## HSC Result Checker
+
+- Repository: https://github.com/asmitsr/hsc-result-checker
+- Status: This repository is currently Private. Only the owner and collaborators can access it.
+
 If you are visiting this page, these projects are not publicly available at the moment.
