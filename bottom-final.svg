@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1720" width="100%" role="img" aria-label="05 Commit Log, 06 Engineering Philosophy, and 07 Verified Credentials">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1880" width="100%" role="img" aria-label="05 Commit Log, 06 Engineering Philosophy, and 07 Verified Credentials">
   <defs>
     <linearGradient id="commit-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#14070E"/>
@@ -24,7 +24,7 @@
       <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="1080" height="1720" fill="#190B12"/>
+  <rect x="0" y="0" width="1080" height="1880" fill="#190B12"/>
 
 
   <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">05   COMMIT LOG</text>
@@ -54,7 +54,7 @@
 
       <text x="130" y="14" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.4">COMMITS</text>
       <text x="130" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">92</text>
-      <text x="130" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Across 9 repos</text>
+      <text x="130" y="60" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Across 10 repos</text>
 
       <text x="245" y="14" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.4">STREAK</text>
       <text x="245" y="44" fill="#F8F0F3" font-family="Georgia, serif" font-size="28" font-weight="700">3d</text>
@@ -74,7 +74,7 @@
 
     <path d="M 580,154 L 686,154 L 686,208 L 792,208 L 792,172 L 916,172 L 916,244 L 970,244" fill="none" stroke="#F8F0F3" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="60 420"/>
 
-    <text x="36" y="296" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.0">SOURCE: PUBLIC GITHUB CONTRIBUTIONS FOR @ASMITSR   &#183;   92 COMMITS IN 9 REPOSITORIES</text>
+    <text x="36" y="296" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.0">SOURCE: PUBLIC GITHUB CONTRIBUTIONS FOR @ASMITSR   &#183;   92 COMMITS IN 10 REPOSITORIES</text>
     <g transform="translate(880, 285)">
       <text x="0" y="11" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">Less</text>
       <rect x="32" y="1" width="11" height="11" rx="2" fill="#220B16"/>
@@ -103,7 +103,7 @@
       <text x="494" y="146" text-anchor="end" fill="#F8F0F3" font-weight="700">1</text>
 
       <text x="142" y="172">&#9632;  Public Repositories:</text>
-      <text x="494" y="172" text-anchor="end" fill="#F8F0F3" font-weight="700">9</text>
+      <text x="494" y="172" text-anchor="end" fill="#F8F0F3" font-weight="700">10</text>
     </g>
 
     <rect x="550" y="0" width="420" height="196" rx="16" fill="url(#glance-bg)" stroke="#701A3D" stroke-width="1.2"/>
@@ -172,11 +172,11 @@
   <g transform="translate(0, 1042)">
     <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">07   ALL REPOSITORIES</text>
     <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">ANDROID  &#183;  WEB  &#183;  AI &amp; AUTOMATION</text>
-    <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Nine public, three private — verified<tspan fill="#C77B9B">.</tspan></text>
+    <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Ten public, three private — verified<tspan fill="#C77B9B">.</tspan></text>
     <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#commit-rule)" stroke-width="1.5"/>
 
     <g transform="translate(0, 100)">
-      <rect x="0" y="0" width="1080" height="514" rx="20" fill="url(#bento-outer-bg)" stroke="#701A3D" stroke-width="1.3"/>
+      <rect x="0" y="0" width="1080" height="674" rx="20" fill="url(#bento-outer-bg)" stroke="#701A3D" stroke-width="1.3"/>
       
       <g transform="translate(26, 26)">
         <rect x="0" y="0" width="244" height="142" rx="14" fill="url(#bento-card-bg)" stroke="#701A3D" stroke-width="1.2"/>
@@ -273,6 +273,14 @@
         <text x="18" y="64" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="700">asmitsr/hsc-result-checker</text>
         <text x="18" y="90" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">HSC Result 2026 checker</text>
         <text x="18" y="112" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">SMS + official portals — PRIVATE</text>
+      </g>
+      <g transform="translate(418, 506)">
+        <rect x="0" y="0" width="244" height="142" rx="14" fill="url(#bento-card-bg)" stroke="#701A3D" stroke-width="1.2"/>
+        <text x="18" y="28" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="700" letter-spacing="1.2">13 &#183; SUST PREP</text>
+        <text x="226" y="28" text-anchor="end" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="600">Kotlin</text>
+        <text x="18" y="64" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="16.5" font-weight="700">asmitsr/sust-or-die</text>
+        <text x="18" y="90" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">SUST admission study app</text>
+        <text x="18" y="112" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">60-day plan, focus &amp; alarms</text>
       </g>
     </g>
   </g>
