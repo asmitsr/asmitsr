@@ -1,46 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Asmit Sarkar profile window">
-  <rect x="0" y="0" width="1200" height="900" fill="#0B1120"/>
-  <rect x="8" y="8" width="1184" height="884" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
-  <rect x="8" y="8" width="1184" height="48" rx="16" fill="#111E3A"/>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#141B33"/>
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16203A"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="900" fill="url(#bgGrad)"/>
+  <circle cx="1100" cy="80" r="180" fill="#22D3EE" opacity="0.06"/>
+  <circle cx="80" cy="840" r="160" fill="#A855F7" opacity="0.06"/>
+  <rect x="8" y="8" width="1184" height="884" rx="20" fill="#0F172A" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <rect x="8" y="8" width="1184" height="48" rx="20" fill="#111E3A"/>
   <rect x="8" y="32" width="1184" height="24" fill="#111E3A"/>
   <circle cx="40" cy="32" r="7" fill="#FF5F57"/><circle cx="68" cy="32" r="7" fill="#FEBC2E"/><circle cx="96" cy="32" r="7" fill="#28C840"/>
-  <text x="600" y="38" fill="#22D3EE" font-family="monospace" font-size="16" text-anchor="middle">asmitsr / README.md</text>
+  <text x="600" y="38" fill="#94A3B8" font-family="monospace" font-size="15" letter-spacing="2" text-anchor="middle">asmitsr / README.md</text>
+  <rect x="1010" y="20" width="150" height="24" rx="12" fill="#22D3EE" opacity="0.14"/>
+  <text x="1085" y="37" fill="#22D3EE" font-family="monospace" font-size="12" letter-spacing="2" text-anchor="middle">PREMIUM</text>
 
-  <rect x="24" y="70" width="560" height="806" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
-  <text x="56" y="118" fill="#22D3EE" font-family="monospace" font-size="18" font-weight="700">PROFILE</text>
-  <text x="56" y="180" fill="#F1F5F9" font-family="sans-serif" font-size="48" font-weight="700">Asmit Sarkar</text>
-  <text x="56" y="220" fill="#22D3EE" font-family="monospace" font-size="20">@asmitsr</text>
-  <text x="56" y="280" fill="#F1F5F9" font-family="sans-serif" font-size="22">Aspiring Developer</text>
-  <text x="56" y="316" fill="#94A3B8" font-family="sans-serif" font-size="19">Web &amp; Android Development</text>
-  <text x="56" y="348" fill="#94A3B8" font-family="sans-serif" font-size="19">AI Automation</text>
-  <text x="56" y="400" fill="#F1F5F9" font-family="sans-serif" font-size="19">Building useful digital</text>
-  <text x="56" y="428" fill="#F1F5F9" font-family="sans-serif" font-size="19">experiences.</text>
-  <text x="56" y="500" fill="#F472B6" font-family="monospace" font-size="18">📍 Chattogram, Bangladesh</text>
-  <text x="56" y="570" fill="#22D3EE" font-family="monospace" font-size="18">CONTACT</text>
-  <text x="56" y="610" fill="#F1F5F9" font-family="monospace" font-size="18">github.com/asmitsr</text>
-  <text x="56" y="646" fill="#F1F5F9" font-family="monospace" font-size="17">asmitsr.official@gmail.com</text>
+  <rect x="24" y="70" width="560" height="806" rx="20" fill="url(#panelGrad)" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="56" y="96" width="110" height="28" rx="14" fill="#22D3EE" opacity="0.14"/>
+  <text x="111" y="115" fill="#22D3EE" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">PROFILE</text>
+  <text x="56" y="188" fill="url(#nameGrad)" font-family="sans-serif" font-size="52" font-weight="700">Asmit Sarkar</text>
+  <rect x="56" y="204" width="72" height="4" rx="2" fill="#22D3EE"/>
+  <text x="56" y="244" fill="#22D3EE" font-family="monospace" font-size="20">@asmitsr</text>
+  <text x="56" y="302" fill="#F1F5F9" font-family="sans-serif" font-size="23" font-weight="700">Aspiring Developer</text>
+  <text x="56" y="338" fill="#94A3B8" font-family="sans-serif" font-size="19">Web &amp; Android Development</text>
+  <text x="56" y="370" fill="#94A3B8" font-family="sans-serif" font-size="19">AI Automation</text>
+  <line x1="56" y1="398" x2="528" y2="398" stroke="#334155" stroke-width="1"/>
+  <text x="56" y="438" fill="#F1F5F9" font-family="sans-serif" font-size="19">Building useful digital</text>
+  <text x="56" y="466" fill="#F1F5F9" font-family="sans-serif" font-size="19">experiences.</text>
+  <circle cx="64" cy="522" r="5" fill="#F472B6"/>
+  <text x="80" y="530" fill="#F1F5F9" font-family="sans-serif" font-size="18">Chattogram, Bangladesh</text>
+  <rect x="56" y="568" width="110" height="28" rx="14" fill="#F472B6" opacity="0.14"/>
+  <text x="111" y="587" fill="#F472B6" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">CONTACT</text>
+  <text x="56" y="632" fill="#F1F5F9" font-family="monospace" font-size="18">github.com/asmitsr</text>
+  <text x="56" y="668" fill="#F1F5F9" font-family="monospace" font-size="17">asmitsr.official@gmail.com</text>
+  <line x1="56" y1="700" x2="528" y2="700" stroke="#334155" stroke-width="1"/>
   <text x="56" y="760" fill="#94A3B8" font-family="monospace" font-size="15">Photo: guitar photo above this window.</text>
 
-  <rect x="600" y="70" width="576" height="806" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
-  <text x="632" y="118" fill="#22D3EE" font-family="monospace" font-size="18" font-weight="700">SYSTEM.INFO</text>
+  <rect x="600" y="70" width="576" height="806" rx="20" fill="url(#panelGrad)" stroke="#A855F7" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="632" y="96" width="150" height="28" rx="14" fill="#A855F7" opacity="0.14"/>
+  <text x="707" y="115" fill="#C084FC" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">SYSTEM.INFO</text>
   <g font-family="monospace" font-size="19">
-    <text x="632" y="180" fill="#22D3EE">$ Subject:</text>
-    <text x="632" y="212" fill="#F1F5F9">Web &amp; Android Development</text>
-    <text x="632" y="262" fill="#22D3EE">$ Role:</text>
-    <text x="632" y="294" fill="#F1F5F9">Aspiring Developer</text>
-    <text x="632" y="344" fill="#22D3EE">$ Location:</text>
-    <text x="632" y="376" fill="#F1F5F9">Chattogram, Bangladesh</text>
-    <text x="632" y="426" fill="#22D3EE">$ Core:</text>
-    <text x="632" y="458" fill="#F1F5F9">Kotlin, HTML</text>
-    <text x="632" y="508" fill="#22D3EE">$ ToolChain:</text>
-    <text x="632" y="540" fill="#F1F5F9">Kotlin / Android / HTML</text>
-    <text x="632" y="590" fill="#22D3EE">$ Focus:</text>
-    <text x="632" y="622" fill="#F1F5F9">AI Automation</text>
-    <text x="632" y="672" fill="#22D3EE">$ Repos:</text>
-    <text x="632" y="704" fill="#F1F5F9">10 public / 13 total</text>
-    <text x="632" y="754" fill="#22D3EE">$ Contact:</text>
-    <text x="632" y="786" fill="#F1F5F9">github.com/asmitsr</text>
-    <text x="632" y="818" fill="#22D3EE">$ Email:</text>
-    <text x="632" y="850" fill="#F1F5F9">asmitsr.official@gmail.com</text>
+    <circle cx="642" cy="172" r="5" fill="#22D3EE"/><text x="660" y="180" fill="#22D3EE" font-size="14" letter-spacing="2">SUBJECT</text><text x="660" y="212" fill="#F1F5F9" font-size="19">Web &amp; Android Development</text>
+    <circle cx="642" cy="254" r="5" fill="#F472B6"/><text x="660" y="262" fill="#F472B6" font-size="14" letter-spacing="2">ROLE</text><text x="660" y="294" fill="#F1F5F9" font-size="19">Aspiring Developer</text>
+    <circle cx="642" cy="336" r="5" fill="#A855F7"/><text x="660" y="344" fill="#C084FC" font-size="14" letter-spacing="2">LOCATION</text><text x="660" y="376" fill="#F1F5F9" font-size="19">Chattogram, Bangladesh</text>
+    <circle cx="642" cy="418" r="5" fill="#E4CB87"/><text x="660" y="426" fill="#E4CB87" font-size="14" letter-spacing="2">CORE</text><text x="660" y="458" fill="#F1F5F9" font-size="19">Kotlin, HTML</text>
+    <circle cx="642" cy="500" r="5" fill="#22D3EE"/><text x="660" y="508" fill="#22D3EE" font-size="14" letter-spacing="2">TOOLCHAIN</text><text x="660" y="540" fill="#F1F5F9" font-size="19">Kotlin / Android / HTML</text>
+    <circle cx="642" cy="582" r="5" fill="#F472B6"/><text x="660" y="590" fill="#F472B6" font-size="14" letter-spacing="2">FOCUS</text><text x="660" y="622" fill="#F1F5F9" font-size="19">AI Automation</text>
+    <circle cx="642" cy="664" r="5" fill="#A855F7"/><text x="660" y="672" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="704" fill="#F1F5F9" font-size="19">10 public / 13 total</text>
+    <circle cx="642" cy="746" r="5" fill="#E4CB87"/><text x="660" y="754" fill="#E4CB87" font-size="14" letter-spacing="2">CONTACT</text><text x="660" y="786" fill="#F1F5F9" font-size="19">github.com/asmitsr</text>
+    <circle cx="642" cy="810" r="5" fill="#22D3EE"/><text x="660" y="818" fill="#22D3EE" font-size="14" letter-spacing="2">EMAIL</text><text x="660" y="850" fill="#F1F5F9" font-size="19">asmitsr.official@gmail.com</text>
   </g>
 </svg>
