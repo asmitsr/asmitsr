@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" role="img" aria-label="Public repositories">
+  <rect x="0" y="0" width="1200" height="880" fill="#0B1120"/>
+  <rect x="8" y="8" width="1184" height="864" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <text x="60" y="64" fill="#F1F5F9" font-family="sans-serif" font-size="26" font-weight="700">REPOSITORIES — PUBLIC ONLY (10)</text>
+  <rect x="24" y="90" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="60" cy="126" r="16" fill="none" stroke="#A97BFF" stroke-width="7"/>
+  <circle cx="60" cy="126" r="5" fill="#A97BFF"/>
+  <text x="88" y="132" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">DoremanAI</text>
+  <text x="88" y="158" fill="#A97BFF" font-family="monospace" font-size="14">Kotlin  ·  ★ 1</text>
+  <text x="48" y="190" fill="#94A3B8" font-family="sans-serif" font-size="14">AI-powered Android voice assistant.</text>
+  <text x="48" y="210" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="608" y="90" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="644" cy="126" r="16" fill="none" stroke="#A97BFF" stroke-width="7"/>
+  <circle cx="644" cy="126" r="5" fill="#A97BFF"/>
+  <text x="672" y="132" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">SUST OR DIE</text>
+  <text x="672" y="158" fill="#A97BFF" font-family="monospace" font-size="14">Kotlin  ·  ★ 0</text>
+  <text x="632" y="190" fill="#94A3B8" font-family="sans-serif" font-size="14">Personal admission study app, 60-day SUST/GST/CoU</text>
+  <text x="632" y="210" fill="#94A3B8" font-family="sans-serif" font-size="14">A-unit plan.</text> <rect x="24" y="242" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="60" cy="278" r="16" fill="none" stroke="#E34C26" stroke-width="7"/>
+  <circle cx="60" cy="278" r="5" fill="#E34C26"/>
+  <text x="88" y="284" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">Skill DNA</text>
+  <text x="88" y="310" fill="#E34C26" font-family="monospace" font-size="14">HTML  ·  ★ 1</text>
+  <text x="48" y="342" fill="#94A3B8" font-family="sans-serif" font-size="14">GitHub skill analyzer.</text>
+  <text x="48" y="362" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="608" y="242" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="644" cy="278" r="16" fill="none" stroke="#E34C26" stroke-width="7"/>
+  <circle cx="644" cy="278" r="5" fill="#E34C26"/>
+  <text x="672" y="284" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">IELTS Pathway</text>
+  <text x="672" y="310" fill="#E34C26" font-family="monospace" font-size="14">HTML  ·  ★ 1</text>
+  <text x="632" y="342" fill="#94A3B8" font-family="sans-serif" font-size="14">60-day IELTS planner.</text>
+  <text x="632" y="362" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="24" y="394" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="60" cy="430" r="16" fill="none" stroke="#A97BFF" stroke-width="7"/>
+  <circle cx="60" cy="430" r="5" fill="#A97BFF"/>
+  <text x="88" y="436" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">Akshoraloy</text>
+  <text x="88" y="462" fill="#A97BFF" font-family="monospace" font-size="14">Kotlin  ·  ★ 1</text>
+  <text x="48" y="494" fill="#94A3B8" font-family="sans-serif" font-size="14">My very first project, dedicated to my mother.</text>
+  <text x="48" y="514" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="608" y="394" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="644" cy="430" r="16" fill="none" stroke="#E34C26" stroke-width="7"/>
+  <circle cx="644" cy="430" r="5" fill="#E34C26"/>
+  <text x="672" y="436" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">HSC Tracker</text>
+  <text x="672" y="462" fill="#E34C26" font-family="monospace" font-size="14">HTML  ·  ★ 1</text>
+  <text x="632" y="494" fill="#94A3B8" font-family="sans-serif" font-size="14">HSC syllabus tracker.</text>
+  <text x="632" y="514" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="24" y="546" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="60" cy="582" r="16" fill="none" stroke="#3DDC84" stroke-width="7"/>
+  <circle cx="60" cy="582" r="5" fill="#3DDC84"/>
+  <text x="88" y="588" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">Minimal Launcher</text>
+  <text x="88" y="614" fill="#3DDC84" font-family="monospace" font-size="14">Android  ·  ★ 1</text>
+  <text x="48" y="646" fill="#94A3B8" font-family="sans-serif" font-size="14">Android launcher.</text>
+  <text x="48" y="666" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="608" y="546" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="644" cy="582" r="16" fill="none" stroke="#94A3B8" stroke-width="7"/>
+  <circle cx="644" cy="582" r="5" fill="#94A3B8"/>
+  <text x="672" y="588" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">Reader-Calculator</text>
+  <text x="672" y="614" fill="#94A3B8" font-family="monospace" font-size="14">Tool  ·  ★ 1</text>
+  <text x="632" y="646" fill="#94A3B8" font-family="sans-serif" font-size="14">Reader and calculator tool.</text>
+  <text x="632" y="666" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="24" y="698" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="60" cy="734" r="16" fill="none" stroke="#94A3B8" stroke-width="7"/>
+  <circle cx="60" cy="734" r="5" fill="#94A3B8"/>
+  <text x="88" y="740" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">reporevive-security-scanner</text>
+  <text x="88" y="766" fill="#94A3B8" font-family="monospace" font-size="14">Scanner  ·  ★ 0</text>
+  <text x="48" y="798" fill="#94A3B8" font-family="sans-serif" font-size="14">Security scanner.</text>
+  <text x="48" y="818" fill="#94A3B8" font-family="sans-serif" font-size="14"></text> <rect x="608" y="698" width="560" height="136" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <circle cx="644" cy="734" r="16" fill="none" stroke="#22D3EE" stroke-width="7"/>
+  <circle cx="644" cy="734" r="5" fill="#22D3EE"/>
+  <text x="672" y="740" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">asmitsr</text>
+  <text x="672" y="766" fill="#22D3EE" font-family="monospace" font-size="14">Profile  ·  ★ 1</text>
+  <text x="632" y="798" fill="#94A3B8" font-family="sans-serif" font-size="14">This profile repository.</text>
+  <text x="632" y="818" fill="#94A3B8" font-family="sans-serif" font-size="14"></text>
+</svg>
