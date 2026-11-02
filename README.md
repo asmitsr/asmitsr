@@ -4,7 +4,7 @@
 
 <img src="./assets/main-window-v2.svg" width="100%" alt="Asmit Sarkar profile window" />
 
-<img src="./assets/stats-grid.svg" width="100%" alt="Stats — verified snapshot, 2 November 2026" />
+<img src="./assets/stats-grid.svg" width="100%" alt="Stats — verified snapshot" />
 
 <img src="./assets/snake-video.svg" width="100%" alt="Automatic snake animation" />
 
