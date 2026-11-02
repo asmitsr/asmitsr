@@ -1,93 +1,51 @@
-<div align="center">
+# Asmit Sarkar
 
-<img src="./hero-final.svg" width="100%" alt="Asmit Sarkar" />
+**Aspiring Developer | Web & Android Development | AI Automation | Building useful digital experiences.**
 
-<br/>
+📍 Chattogram, Bangladesh
 
-<a href="https://github.com/asmitsr"><img src="https://img.shields.io/badge/GITHUB-ASMITSR-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="GitHub" /></a>
-<a href="https://github.com/asmitsr/DoremanAI"><img src="https://img.shields.io/badge/AI_PROJECT-DOREMANAI-701A3D?style=for-the-badge&logo=sparkles&logoColor=E5B5C7&labelColor=190B12" alt="DoremanAI" /></a>
-<a href="https://github.com/asmitsr/minimal-launcher"><img src="https://img.shields.io/badge/ANDROID-MINIMAL_LAUNCHER-701A3D?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12" alt="Minimal Launcher" /></a>
-<a href="https://github.com/asmitsr"><img src="https://img.shields.io/badge/LOCATION-CHATTOGRAM,_BD-451126?style=for-the-badge&logo=googlemaps&logoColor=C77B9B&labelColor=190B12" alt="Location" /></a>
+<img src="./assets/asmit-guitar.jpg" width="400" alt="Asmit Sarkar playing guitar" />
 
-<br/><br/>
+## Stats — verified snapshot, 2 November 2026
 
-<img src="./about-final.svg" width="100%" alt="01 About" />
+| Contributions (last year) | Current streak | Longest streak | Public repositories | Stars | Followers |
+|---:|---:|---:|---:|---:|---:|
+| 261 | 4 days (30 Oct – 2 Nov 2026) | 7 days (10 – 16 Oct 2026) | 10 | 8 | 1 |
 
-<br/><br/>
+Total repositories: 13 (10 public + 3 private; private repositories are not listed by name here).
 
-<img src="./highlights-final.svg" width="100%" alt="02 Recognition" />
+**How these numbers were checked, so nothing is invented:**
+- Contributions 261 is GitHub's own native figure for the last year (2 Nov 2025 – 2 Nov 2026), cross-checked on 2 Nov 2026 with the streak-stats service, which showed the same 261.
+- GitHub itself does not display a streak figure. The streak figures above are counted from the GitHub contribution calendar, including private contributions, as shown by streak-stats on 2 Nov 2026. They are not presented as a figure GitHub itself displays.
+- Public repositories 10, stars 8 and followers 1 were checked live via the GitHub connector on 2 Nov 2026.
+- These are a snapshot. They will change as new contributions are made.
 
-<br/><br/>
+## Snake — automatic, no game controls
 
-<img src="./assets/asmit-projects-header.svg" width="100%" alt="03 Selected Work" />
+<img src="./assets/snake.svg" width="100%" alt="Automatic snake animation" />
 
-<br/>
+The snake above runs automatically and endlessly. It is decoration only — there is no playable game, no score, and no controls in this README, because a GitHub README cannot run an interactive game.
 
-<a href="https://github.com/asmitsr/DoremanAI">
-  <img src="./card-doremanai.svg" width="100%" alt="DoremanAI" />
-</a>
+## Selected work — public repositories only
 
-<br/>
+- **[DoremanAI](https://github.com/asmitsr/DoremanAI)** — Kotlin — AI-powered Android voice assistant.
+- **[SUST OR DIE](https://github.com/asmitsr/sust-or-die)** — Kotlin — Personal admission study app, 60-day SUST / GST / CoU A-unit plan.
+- **[Skill DNA](https://github.com/asmitsr/skill-dna)** — HTML — GitHub skill analyzer.
+- **[IELTS Pathway](https://github.com/asmitsr/ielts-pathway)** — HTML — 60-day IELTS planner.
+- **[Akshoraloy](https://github.com/asmitsr/Akshoraloy)** — Kotlin — My very first project, dedicated to my mother, who has always supported and believed in me.
+- **[HSC Tracker](https://github.com/asmitsr/hsc-tracker)** — HTML — HSC syllabus tracker.
+- **[Minimal Launcher](https://github.com/asmitsr/minimal-launcher)** — Android launcher.
+- **[Reader-Calculator](https://github.com/asmitsr/Reader-Calculator)** — Tool.
+- **[reporevive-security-scanner](https://github.com/asmitsr/reporevive-security-scanner)** — Security scanner.
+- **[asmitsr](https://github.com/asmitsr/asmitsr)** — This profile repository.
 
-<a href="https://github.com/asmitsr/DoremanAI"><img src="https://img.shields.io/badge/REPOSITORY-DOREMANAI-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="DoremanAI Repository" /></a>
+## System info
 
-<br/><br/>
+- **Focus:** Web & Android development, AI automation
+- **Main languages in public work:** Kotlin, HTML
+- **Location:** Chattogram, Bangladesh
 
-<a href="https://github.com/asmitsr/minimal-launcher">
-  <img src="./assets/project-02-launcher.svg" width="100%" alt="Minimal Launcher" />
-</a>
+## Contact
 
-<br/>
-
-<a href="https://github.com/asmitsr/minimal-launcher"><img src="https://img.shields.io/badge/REPOSITORY-MINIMAL_LAUNCHER-701A3D?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12" alt="Minimal Launcher Repository" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/asmitsr/hsc-tracker">
-  <img src="./assets/project-03-hsctracker.svg" width="100%" alt="HSC Tracker" />
-</a>
-
-<br/>
-
-<a href="https://github.com/asmitsr/hsc-tracker"><img src="https://img.shields.io/badge/REPOSITORY-HSC_TRACKER-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="HSC Tracker Repository" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/asmitsr/Akshoraloy">
-  <img src="./card-akshoraloy.svg" width="100%" alt="Akshoraloy" />
-</a>
-
-<br/>
-
-<a href="https://github.com/asmitsr/Akshoraloy"><img src="https://img.shields.io/badge/REPOSITORY-AKSHORALOY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Akshoraloy Repository" /></a>
-
-<br/><br/>
-
-<img src="./toolkit-final.svg" width="100%" alt="04 Toolkit" />
-
-<br/><br/>
-
-<img src="./bottom-final.svg" width="100%" alt="05 Commit Log, 06 Engineering Philosophy, and 07 All Repositories" />
-
-<br/><br/>
-
-<img src="./assets/asmit-connect-header.svg" width="100%" alt="08 Connect" />
-
-<br/>
-
-<a href="https://github.com/asmitsr"><img src="https://img.shields.io/badge/GITHUB-GITHUB.COM/ASMITSR-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="GitHub" /></a>
-<a href="mailto:asmitsr.official@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ASMITSR_OFFICIAL-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3&labelColor=190B12" alt="Gmail" /></a>
-<a href="https://github.com/asmitsr"><img src="https://img.shields.io/badge/PORTFOLIO-GITHUB.COM/ASMITSR-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Portfolio" /></a>
-<a href="https://github.com/asmitsr/DoremanAI"><img src="https://img.shields.io/badge/PROJECT-DOREMANAI-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="DoremanAI" /></a>
-<a href="https://github.com/asmitsr/minimal-launcher"><img src="https://img.shields.io/badge/ANDROID-MINIMAL_LAUNCHER-451126?style=for-the-badge&logo=android&logoColor=E5B5C7&labelColor=190B12" alt="Minimal Launcher" /></a>
-<a href="https://github.com/asmitsr/hsc-tracker"><img src="https://img.shields.io/badge/WEB_APP-HSC_TRACKER-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="HSC Tracker" /></a>
-<a href="https://github.com/asmitsr/Akshoraloy"><img src="https://img.shields.io/badge/PROJECT-AKSHORALOY-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Akshoraloy" /></a>
-<a href="https://github.com/asmitsr/asmitsr/blob/main/private-projects.md"><img src="https://img.shields.io/badge/WEB-CHATTOGRAM_PUJA_PRIVATE-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Chattogram Puja (Private)" /></a>
-<a href="https://github.com/asmitsr/Reader-Calculator"><img src="https://img.shields.io/badge/TOOL-READER_CALCULATOR-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Reader Calculator" /></a>
-<a href="https://github.com/asmitsr/skill-dna"><img src="https://img.shields.io/badge/PROJECT-SKILL_DNA-451126?style=for-the-badge&logo=github&logoColor=F8F0F3&labelColor=190B12" alt="Skill DNA" /></a>
-
-<br/><br/>
-
-<img src="./assets/asmit-footer.svg" width="100%" alt="Asmit Sarkar" />
-
-</div>
+- GitHub: [github.com/asmitsr](https://github.com/asmitsr)
+- Email: [asmitsr.official@gmail.com](mailto:asmitsr.official@gmail.com)
