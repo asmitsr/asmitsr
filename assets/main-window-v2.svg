@@ -44,20 +44,16 @@
   <text x="111" y="587" fill="#F472B6" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">CONTACT</text>
   <text x="56" y="632" fill="#F1F5F9" font-family="monospace" font-size="18">github.com/asmitsr</text>
   <text x="56" y="668" fill="#F1F5F9" font-family="monospace" font-size="17">asmitsr.official@gmail.com</text>
-  <line x1="56" y1="700" x2="528" y2="700" stroke="#334155" stroke-width="1"/>
-  <text x="56" y="760" fill="#94A3B8" font-family="monospace" font-size="15">Photo: guitar photo above this window.</text>
 
   <rect x="600" y="70" width="576" height="806" rx="20" fill="url(#panelGrad)" stroke="#A855F7" stroke-opacity="0.35" stroke-width="1.5"/>
   <rect x="632" y="96" width="150" height="28" rx="14" fill="#A855F7" opacity="0.14"/>
   <text x="707" y="115" fill="#C084FC" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">SYSTEM.INFO</text>
   <g font-family="monospace" font-size="19">
     <circle cx="642" cy="172" r="5" fill="#22D3EE"/><text x="660" y="180" fill="#22D3EE" font-size="14" letter-spacing="2">SUBJECT</text><text x="660" y="212" fill="#F1F5F9" font-size="19">Web &amp; Android Development</text>
-    <circle cx="642" cy="254" r="5" fill="#F472B6"/><text x="660" y="262" fill="#F472B6" font-size="14" letter-spacing="2">ROLE</text><text x="660" y="294" fill="#F1F5F9" font-size="19">Aspiring Developer</text>
-    <circle cx="642" cy="336" r="5" fill="#E4CB87"/><text x="660" y="344" fill="#E4CB87" font-size="14" letter-spacing="2">CORE</text><text x="660" y="376" fill="#F1F5F9" font-size="19">Kotlin, HTML</text>
-    <circle cx="642" cy="418" r="5" fill="#22D3EE"/><text x="660" y="426" fill="#22D3EE" font-size="14" letter-spacing="2">TOOLCHAIN</text><text x="660" y="458" fill="#F1F5F9" font-size="19">Kotlin / Android / HTML</text>
-    <circle cx="642" cy="500" r="5" fill="#F472B6"/><text x="660" y="508" fill="#F472B6" font-size="14" letter-spacing="2">FOCUS</text><text x="660" y="540" fill="#F1F5F9" font-size="19">AI Automation</text>
-    <circle cx="642" cy="582" r="5" fill="#A855F7"/><text x="660" y="590" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="622" fill="#F1F5F9" font-size="19">10 public / 13 total</text>
-    <circle cx="642" cy="664" r="5" fill="#E4CB87"/><text x="660" y="672" fill="#E4CB87" font-size="14" letter-spacing="2">CONTACT</text><text x="660" y="704" fill="#F1F5F9" font-size="19">github.com/asmitsr</text>
-    <circle cx="642" cy="728" r="5" fill="#22D3EE"/><text x="660" y="736" fill="#22D3EE" font-size="14" letter-spacing="2">EMAIL</text><text x="660" y="768" fill="#F1F5F9" font-size="19">asmitsr.official@gmail.com</text>
+    <circle cx="642" cy="276" r="5" fill="#F472B6"/><text x="660" y="284" fill="#F472B6" font-size="14" letter-spacing="2">ROLE</text><text x="660" y="316" fill="#F1F5F9" font-size="19">Aspiring Developer</text>
+    <circle cx="642" cy="380" r="5" fill="#E4CB87"/><text x="660" y="388" fill="#E4CB87" font-size="14" letter-spacing="2">CORE</text><text x="660" y="420" fill="#F1F5F9" font-size="19">Kotlin, HTML</text>
+    <circle cx="642" cy="484" r="5" fill="#22D3EE"/><text x="660" y="492" fill="#22D3EE" font-size="14" letter-spacing="2">TOOLCHAIN</text><text x="660" y="524" fill="#F1F5F9" font-size="19">Kotlin / Android / HTML</text>
+    <circle cx="642" cy="588" r="5" fill="#F472B6"/><text x="660" y="596" fill="#F472B6" font-size="14" letter-spacing="2">FOCUS</text><text x="660" y="628" fill="#F1F5F9" font-size="19">AI Automation</text>
+    <circle cx="642" cy="692" r="5" fill="#A855F7"/><text x="660" y="700" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="732" fill="#F1F5F9" font-size="19">10 public / 13 total</text>
   </g>
 </svg>
