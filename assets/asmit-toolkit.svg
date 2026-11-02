@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 430" width="100%" role="img" aria-label="04 Toolkit — The tools I reach for.">
+  <defs>
+    <linearGradient id="tk-card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#170810"/>
+      <stop offset="65%" stop-color="#260B18"/>
+      <stop offset="100%" stop-color="#3F1023"/>
+    </linearGradient>
+    <linearGradient id="tk-rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#701A3D" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Section Header -->
+  <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">04   TOOLKIT</text>
+  <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">LANGUAGES  ·  ANDROID  ·  WEB  ·  AI  ·  TOOLS</text>
+  <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">The tools I reach for<tspan fill="#C77B9B">.</tspan></text>
+  <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#tk-rule)" stroke-width="1.5"/>
+
+  <!-- Row 1: 3 Cards -->
+  <!-- Card 01: Languages -->
+  <g transform="translate(0, 100)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">01   LANGUAGES</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Kotlin</text>
+    <rect x="118" y="49" width="68" height="22" rx="11" fill="#451126" stroke="#C77B9B" stroke-width="0.9"/>
+    <text x="152" y="64" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="700">PRIMARY</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">JavaScript</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">HTML5  ·  CSS3  ·  Shell</text>
+  </g>
+
+  <!-- Card 02: Android & Mobile -->
+  <g transform="translate(367, 100)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">02   ANDROID DEVELOPMENT</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Android SDK · UI</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Custom Launchers</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Minimal UX  ·  Mobile Performance</text>
+  </g>
+
+  <!-- Card 03: AI & Automation -->
+  <g transform="translate(734, 100)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">03   AI &amp; AUTOMATION</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">AI Applications</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Smart Automation</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">LLM Workflows  ·  Intelligent Tools</text>
+  </g>
+
+  <!-- Diamond Connectors -->
+  <polygon points="356,258 362,264 356,270 350,264" fill="none" stroke="#C77B9B" stroke-width="1.2"/>
+  <polygon points="723,258 729,264 723,270 717,264" fill="none" stroke="#C77B9B" stroke-width="1.2"/>
+
+  <!-- Row 2: 3 Cards -->
+  <!-- Card 04: Web Development -->
+  <g transform="translate(0, 276)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">04   WEB DEVELOPMENT</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">HTML5 · CSS3 · JS</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Responsive Web Apps</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Interactive UI  ·  Clean Frontend</text>
+  </g>
+
+  <!-- Card 05: Plugins & Ecosystem -->
+  <g transform="translate(367, 276)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">05   PLUGINS &amp; PRODUCTIVITY</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Obsidian Plugin API</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Template Token Engine</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Study Trackers  ·  Workflow Utilities</text>
+  </g>
+
+  <!-- Card 06: Tools & Fundamentals -->
+  <g transform="translate(734, 276)">
+    <rect x="0" y="0" width="346" height="152" rx="16" fill="url(#tk-card)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="26" y="32" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">06   TOOLS &amp; FUNDAMENTALS</text>
+    <text x="26" y="68" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Git · GitHub</text>
+    <text x="26" y="100" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Problem Solving</text>
+    <text x="26" y="128" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">Android Studio · VS Code · Linux</text>
+  </g>
+</svg>

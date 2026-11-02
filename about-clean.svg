@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 390" width="100%" role="img" aria-label="01 About, Hello, I'm Asmit.">
+  <defs>
+    <linearGradient id="about-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190B12"/>
+      <stop offset="65%" stop-color="#230C18"/>
+      <stop offset="100%" stop-color="#380E20"/>
+    </linearGradient>
+    <linearGradient id="about-mini-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#210B16"/>
+      <stop offset="100%" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="about-rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C77B9B" stop-opacity="0.9"/>
+      <stop offset="30%" stop-color="#701A3D" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#451126" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <text x="4" y="20" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">01   ABOUT</text>
+  <text x="1076" y="20" text-anchor="end" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2.2">WHO I AM</text>
+  <text x="4" y="62" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', Times, serif" font-size="38" font-weight="700">Hello, I'm Asmit<tspan fill="#C77B9B">.</tspan></text>
+  <line x1="4" y1="80" x2="1076" y2="80" stroke="url(#about-rule)" stroke-width="1.5"/>
+
+  <g transform="translate(0, 102)">
+    <rect x="0" y="0" width="684" height="278" rx="16" fill="url(#about-card-bg)" stroke="#701A3D" stroke-width="1.2"/>
+    <path d="M 0,16 A 16,16 0 0,1 16,0 L 668,0 A 16,16 0 0,1 684,16 L 684,40 L 0,40 Z" fill="#12060C"/>
+    <line x1="0" y1="40" x2="684" y2="40" stroke="#451126" stroke-width="1"/>
+    <circle cx="22" cy="20" r="5.5" fill="#C77B9B"/>
+    <circle cx="40" cy="20" r="5.5" fill="#8F4464"/>
+    <circle cx="58" cy="20" r="5.5" fill="#451126"/>
+    <text x="342" y="24" text-anchor="middle" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.8">asmit@portfolio: ~</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+      <text x="28" y="72" fill="#C77B9B">$ <tspan fill="#F8F0F3" font-weight="700">whoami</tspan></text>
+      <text x="44" y="93" fill="#E5B5C7">Asmit Sarkar  <tspan fill="#C77B9B">&#183;</tspan>  Web Developer  <tspan fill="#C77B9B">&#183;</tspan>  Android &amp; AI Builder</text>
+
+      <text x="28" y="122" fill="#C77B9B">$ <tspan fill="#F8F0F3" font-weight="700">cat location.txt</tspan></text>
+      <text x="44" y="143" fill="#E5B5C7">Chattogram, Bangladesh  <tspan fill="#C77B9B">&#183;</tspan>  Open Source Developer</text>
+
+      <text x="28" y="172" fill="#C77B9B">$ <tspan fill="#F8F0F3" font-weight="700">cat focus.txt</tspan></text>
+      <text x="44" y="193" fill="#E5B5C7">Web Development  <tspan fill="#C77B9B">&#183;</tspan>  Android App Development  <tspan fill="#C77B9B">&#183;</tspan>  AI &amp; Automation</text>
+
+      <text x="28" y="222" fill="#C77B9B">$ <tspan fill="#F8F0F3" font-weight="700">ls ./shipped</tspan></text>
+      <text x="44" y="243" fill="#F8F0F3">DoremanAI/   minimal-launcher/   hsc-tracker/   Aksharoloy/</text>
+    </g>
+  </g>
+
+  <g transform="translate(706, 102)">
+    <rect x="0" y="0" width="374" height="84" rx="14" fill="url(#about-mini-bg)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="24" y="26" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">PRIMARY LANGUAGE</text>
+    <text x="24" y="54" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">Kotlin</text>
+    <text x="24" y="72" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">81.07% codebase  &#183;  Android Apps &amp; Minimal UX</text>
+
+    <rect x="0" y="97" width="374" height="84" rx="14" fill="url(#about-mini-bg)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="24" y="123" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">WEB DEVELOPMENT</text>
+    <text x="24" y="151" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">JavaScript &amp; Web</text>
+    <text x="24" y="169" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">HTML5 &#183; CSS3 &#183; JavaScript &#183; Responsive Web</text>
+
+    <rect x="0" y="194" width="374" height="84" rx="14" fill="url(#about-mini-bg)" stroke="#701A3D" stroke-width="1.2"/>
+    <text x="24" y="220" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.8">WHAT DRIVES ME</text>
+    <text x="24" y="248" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">AI &amp; Automation</text>
+    <text x="24" y="266" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Turning ideas into clean, real-world projects</text>
+  </g>
+</svg>
