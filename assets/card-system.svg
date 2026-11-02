@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="System info and contact card">
+  <rect x="0" y="0" width="1200" height="300" fill="#190B12"/>
+  <rect x="16" y="16" width="1168" height="268" rx="24" fill="#24101E" stroke="#701A3D" stroke-width="2"/>
+  <text x="60" y="80" fill="#F8F0F3" font-family="sans-serif" font-size="30" font-weight="700">SYSTEM.INFO</text>
+  <text x="60" y="132" fill="#E5B5C7" font-family="sans-serif" font-size="22">Focus: Web &amp; Android development, AI automation</text>
+  <text x="60" y="172" fill="#E5B5C7" font-family="sans-serif" font-size="22">Main languages: Kotlin, HTML</text>
+  <text x="60" y="212" fill="#E5B5C7" font-family="sans-serif" font-size="22">Location: Chattogram, Bangladesh</text>
+  <text x="60" y="252" fill="#C77B9B" font-family="monospace" font-size="20">Total: 13 repos — 10 public, 3 private (not listed)</text>
+  <text x="700" y="80" fill="#F8F0F3" font-family="sans-serif" font-size="30" font-weight="700">CONTACT</text>
+  <text x="700" y="132" fill="#F8F0F3" font-family="monospace" font-size="22">github.com/asmitsr</text>
+  <text x="700" y="172" fill="#F8F0F3" font-family="monospace" font-size="22">asmitsr.official@gmail.com</text>
+  <text x="700" y="212" fill="#C77B9B" font-family="sans-serif" font-size="20">GitHub profile: @asmitsr</text>
+</svg>

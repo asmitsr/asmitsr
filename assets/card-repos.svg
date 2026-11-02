@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" role="img" aria-label="Selected work public repositories card grid">
+  <rect x="0" y="0" width="1200" height="880" fill="#190B12"/>
+  <rect x="16" y="16" width="1168" height="848" rx="24" fill="#24101E" stroke="#701A3D" stroke-width="2"/>
+  <text x="60" y="78" fill="#F8F0F3" font-family="sans-serif" font-size="32" font-weight="700">SELECTED WORK — PUBLIC REPOSITORIES ONLY</text>
+  <g font-family="sans-serif">
+    <rect x="36" y="100" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="60" y="148" fill="#F8F0F3" font-size="24" font-weight="700">DoremanAI</text>
+    <text x="60" y="182" fill="#C77B9B" font-size="17">Kotlin</text>
+    <text x="60" y="212" fill="#E5B5C7" font-size="17">AI-powered Android voice assistant.</text>
+    <rect x="604" y="100" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="628" y="148" fill="#F8F0F3" font-size="24" font-weight="700">SUST OR DIE</text>
+    <text x="628" y="182" fill="#C77B9B" font-size="17">Kotlin</text>
+    <text x="628" y="212" fill="#E5B5C7" font-size="16">Personal admission study app, 60-day SUST/GST/CoU A-unit plan.</text>
+    <rect x="36" y="252" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="60" y="300" fill="#F8F0F3" font-size="24" font-weight="700">Skill DNA</text>
+    <text x="60" y="334" fill="#C77B9B" font-size="17">HTML</text>
+    <text x="60" y="364" fill="#E5B5C7" font-size="17">GitHub skill analyzer.</text>
+    <rect x="604" y="252" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="628" y="300" fill="#F8F0F3" font-size="24" font-weight="700">IELTS Pathway</text>
+    <text x="628" y="334" fill="#C77B9B" font-size="17">HTML</text>
+    <text x="628" y="364" fill="#E5B5C7" font-size="17">60-day IELTS planner.</text>
+    <rect x="36" y="404" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="60" y="452" fill="#F8F0F3" font-size="24" font-weight="700">Akshoraloy</text>
+    <text x="60" y="486" fill="#C77B9B" font-size="17">Kotlin</text>
+    <text x="60" y="516" fill="#E5B5C7" font-size="17">My very first project, dedicated to my mother.</text>
+    <rect x="604" y="404" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="628" y="452" fill="#F8F0F3" font-size="24" font-weight="700">HSC Tracker</text>
+    <text x="628" y="486" fill="#C77B9B" font-size="17">HTML</text>
+    <text x="628" y="516" fill="#E5B5C7" font-size="17">HSC syllabus tracker.</text>
+    <rect x="36" y="556" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="60" y="604" fill="#F8F0F3" font-size="24" font-weight="700">Minimal Launcher</text>
+    <text x="60" y="638" fill="#C77B9B" font-size="17">Android</text>
+    <text x="60" y="668" fill="#E5B5C7" font-size="17">Android launcher.</text>
+    <rect x="604" y="556" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="628" y="604" fill="#F8F0F3" font-size="24" font-weight="700">Reader-Calculator</text>
+    <text x="628" y="638" fill="#C77B9B" font-size="17">Tool</text>
+    <text x="628" y="668" fill="#E5B5C7" font-size="17">Reader and calculator tool.</text>
+    <rect x="36" y="708" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="60" y="756" fill="#F8F0F3" font-size="24" font-weight="700">reporevive-security-scanner</text>
+    <text x="60" y="790" fill="#C77B9B" font-size="17">Security scanner</text>
+    <text x="60" y="820" fill="#E5B5C7" font-size="17">Security scanner.</text>
+    <rect x="604" y="708" width="560" height="140" rx="16" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+    <text x="628" y="756" fill="#F8F0F3" font-size="24" font-weight="700">asmitsr</text>
+    <text x="628" y="790" fill="#C77B9B" font-size="17">Profile</text>
+    <text x="628" y="820" fill="#E5B5C7" font-size="17">This profile repository.</text>
+  </g>
+</svg>

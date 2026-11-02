@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 132" width="800" height="132" role="img" aria-label="Automatic snake animation">
+  <rect x="0" y="0" width="800" height="132" fill="#190B12"/>
+  <rect x="12" y="12" width="776" height="108" rx="16" fill="#24101E" stroke="#701A3D" stroke-width="1.5"/>
+  <g fill="#3A2440">
+    <rect x="28" y="28" width="16" height="16" rx="4"/>
+    <rect x="60" y="28" width="16" height="16" rx="4"/>
+    <rect x="92" y="28" width="16" height="16" rx="4"/>
+    <rect x="124" y="28" width="16" height="16" rx="4"/>
+    <rect x="156" y="28" width="16" height="16" rx="4"/>
+    <rect x="188" y="28" width="16" height="16" rx="4"/>
+    <rect x="220" y="28" width="16" height="16" rx="4"/>
+    <rect x="252" y="28" width="16" height="16" rx="4"/>
+    <rect x="284" y="28" width="16" height="16" rx="4"/>
+    <rect x="316" y="28" width="16" height="16" rx="4"/>
+    <rect x="348" y="28" width="16" height="16" rx="4"/>
+    <rect x="380" y="28" width="16" height="16" rx="4"/>
+    <rect x="412" y="28" width="16" height="16" rx="4"/>
+    <rect x="444" y="28" width="16" height="16" rx="4"/>
+    <rect x="476" y="28" width="16" height="16" rx="4"/>
+    <rect x="508" y="28" width="16" height="16" rx="4"/>
+    <rect x="540" y="28" width="16" height="16" rx="4"/>
+    <rect x="572" y="28" width="16" height="16" rx="4"/>
+    <rect x="604" y="28" width="16" height="16" rx="4"/>
+    <rect x="636" y="28" width="16" height="16" rx="4"/>
+    <rect x="668" y="28" width="16" height="16" rx="4"/>
+    <rect x="700" y="28" width="16" height="16" rx="4"/>
+    <rect x="732" y="28" width="16" height="16" rx="4"/>
+  </g>
+  <g fill="#4ADE80">
+    <circle cx="200" cy="86" r="7"/>
+    <circle cx="420" cy="86" r="7"/>
+    <circle cx="640" cy="86" r="7"/>
+  </g>
+  <g transform="translate(120,66)">
+    <circle cx="0" cy="0" r="14" fill="#4ADE80"/>
+    <circle cx="-22" cy="0" r="12" fill="#4ADE80"/>
+    <circle cx="-44" cy="0" r="12" fill="#4ADE80"/>
+    <circle cx="-66" cy="0" r="12" fill="#4ADE80"/>
+    <circle cx="-84" cy="0" r="10" fill="#4ADE80"/>
+    <circle cx="6" cy="-4" r="3" fill="#190B12"/>
+    <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" path="M 120 66 C 240 30, 340 100, 480 66 S 660 30, 720 66"/>
+  </g>
+  <text x="28" y="112" fill="#9AA6C4" font-family="monospace" font-size="11">Automatic snake — runs endlessly, no controls, no score</text>
+</svg>
