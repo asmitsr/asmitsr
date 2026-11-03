@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/main-window-v2.svg" width="100%" alt="Asmit Sarkar profile window" />
+<img src="./assets/main-window-v2.svg?v=20261103-premium" width="100%" alt="Asmit Sarkar profile window" />
 
-<img src="./assets/stats-grid.svg" width="100%" alt="Stats — verified snapshot" />
+<img src="./assets/stats-grid.svg?v=20261103-premium" width="100%" alt="Stats — verified snapshot" />
 
-<img src="./assets/snake-video.svg" width="100%" alt="Automatic snake animation" />
+<img src="./assets/snake-video.svg?v=20261103-premium" width="100%" alt="Automatic snake animation" />
 
-<img src="./assets/repos-video.svg" width="100%" alt="Public repositories only" />
+<img src="./assets/repos-video.svg?v=20261103-premium" width="100%" alt="Public repositories only" />
 
 </div>
 
