@@ -1,14 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 132" width="800" height="132" role="img" aria-label="Automatic snake animation">
-  <rect x="0" y="0" width="800" height="132" fill="#0B1120"/>
-  <rect x="12" y="12" width="776" height="108" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
-  <g fill="#312E81">
-    <rect x="28" y="28" width="16" height="16" rx="4"/><rect x="60" y="28" width="16" height="16" rx="4"/><rect x="92" y="28" width="16" height="16" rx="4"/><rect x="124" y="28" width="16" height="16" rx="4"/><rect x="156" y="28" width="16" height="16" rx="4"/><rect x="188" y="28" width="16" height="16" rx="4"/><rect x="220" y="28" width="16" height="16" rx="4"/><rect x="252" y="28" width="16" height="16" rx="4"/><rect x="284" y="28" width="16" height="16" rx="4"/><rect x="316" y="28" width="16" height="16" rx="4"/><rect x="348" y="28" width="16" height="16" rx="4"/><rect x="380" y="28" width="16" height="16" rx="4"/><rect x="412" y="28" width="16" height="16" rx="4"/><rect x="444" y="28" width="16" height="16" rx="4"/><rect x="476" y="28" width="16" height="16" rx="4"/><rect x="508" y="28" width="16" height="16" rx="4"/><rect x="540" y="28" width="16" height="16" rx="4"/><rect x="572" y="28" width="16" height="16" rx="4"/><rect x="604" y="28" width="16" height="16" rx="4"/><rect x="636" y="28" width="16" height="16" rx="4"/><rect x="668" y="28" width="16" height="16" rx="4"/><rect x="700" y="28" width="16" height="16" rx="4"/><rect x="732" y="28" width="16" height="16" rx="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140" role="img" aria-label="Small automatic snake eating balls and growing">
+  <defs>
+    <linearGradient id="snakeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="140" fill="#0B1120"/>
+  <rect x="12" y="12" width="776" height="116" rx="18" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+  <!-- food balls: each appears, gets eaten, then the next one appears -->
+  <!-- ball 1, top-right area, eaten early in the loop -->
+  <circle cx="640" cy="40" r="6" fill="#F472B6">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.22;0.24;0.99;1" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <!-- ball 2, bottom area, eaten mid-loop -->
+  <circle cx="380" cy="100" r="6" fill="#FBBF24">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.26;0.48;0.50;1" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <!-- ball 3, left area, eaten late in the loop -->
+  <circle cx="160" cy="40" r="6" fill="#34D399">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50;0.52;0.74;0.76;1" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  <!-- small snake: head + body, trailing along the same loop path -->
+  <!-- loop path: around the inner arena, passing near all three balls -->
+  <g>
+    <!-- segment 6: appears after the third ball, grows the snake -->
+    <circle r="4" fill="#A855F7" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.76;0.78;0.99;1" dur="20s" repeatCount="indefinite"/>
+      <animateMotion dur="20s" begin="-2.4s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- segment 5: appears after the second ball -->
+    <circle r="4.5" fill="#A855F7" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.52;0.99;1" dur="20s" repeatCount="indefinite"/>
+      <animateMotion dur="20s" begin="-2.0s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- segment 4: appears after the first ball -->
+    <circle r="5" fill="#A855F7" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.26;0.99;1" dur="20s" repeatCount="indefinite"/>
+      <animateMotion dur="20s" begin="-1.6s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- segment 3 -->
+    <circle r="5" fill="#A855F7">
+      <animateMotion dur="20s" begin="-1.2s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- segment 2 -->
+    <circle r="5.5" fill="#22D3EE">
+      <animateMotion dur="20s" begin="-0.8s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- segment 1 -->
+    <circle r="6" fill="#22D3EE">
+      <animateMotion dur="20s" begin="-0.4s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </circle>
+    <!-- head, small, with eyes -->
+    <g>
+      <circle r="7" fill="url(#snakeGrad)"/>
+      <circle cx="3" cy="-2.5" r="1.6" fill="#0B1120"/>
+      <circle cx="3" cy="2.5" r="1.6" fill="#0B1120"/>
+      <animateMotion dur="20s" repeatCount="indefinite" rotate="auto" path="M 40 70 L 640 40 L 760 70 L 380 100 L 160 40 L 40 70 Z"/>
+    </g>
   </g>
-  <g fill="#F472B6"><circle cx="200" cy="86" r="7"/><circle cx="420" cy="86" r="7"/><circle cx="640" cy="86" r="7"/></g>
-  <g transform="translate(120,66)">
-    <circle cx="0" cy="0" r="14" fill="#22D3EE"/><circle cx="-22" cy="0" r="12" fill="#22D3EE"/><circle cx="-44" cy="0" r="12" fill="#A855F7"/><circle cx="-66" cy="0" r="12" fill="#A855F7"/><circle cx="-88" cy="0" r="10" fill="#A855F7"/>
-    <circle cx="6" cy="-4" r="3" fill="#0B1120"/>
-    <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" path="M 120 66 C 240 30, 340 100, 480 66 S 660 30, 720 66"/>
-  </g>
-  <text x="28" y="112" fill="#94A3B8" font-family="monospace" font-size="11">Automatic snake — runs endlessly, no controls, no score</text>
+  <text x="28" y="126" fill="#94A3B8" font-family="monospace" font-size="11">Small snake, automatic — eats a ball, grows, then eats the next one, endlessly</text>
 </svg>

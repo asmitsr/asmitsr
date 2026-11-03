@@ -32,8 +32,12 @@
   <rect x="56" y="96" width="110" height="28" rx="14" fill="#22D3EE" opacity="0.14"/>
   <text x="111" y="115" fill="#22D3EE" font-family="monospace" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle">PROFILE</text>
   <text x="56" y="230" fill="url(#nameGrad)" font-family="sans-serif" font-size="58" font-weight="700">Asmit Sarkar</text>
-  <rect x="56" y="250" width="72" height="4" rx="2" fill="#22D3EE"/>
-  <text x="56" y="300" fill="#22D3EE" font-family="monospace" font-size="22">@asmitsr</text>
+  <rect x="56" y="250" width="180" height="5" rx="2.5" fill="url(#borderGrad)"/>
+  <circle cx="248" cy="252.5" r="6" fill="#F472B6"/>
+  <circle cx="248" cy="252.5" r="2.5" fill="#0F172A"/>
+  <rect x="56" y="268" width="300" height="26" rx="13" fill="#22D3EE" opacity="0.12"/>
+  <text x="206" y="286" fill="#7DD3FC" font-family="monospace" font-size="13" letter-spacing="2" text-anchor="middle">WEB  •  ANDROID  •  AI AUTOMATION</text>
+  <text x="56" y="322" fill="#22D3EE" font-family="monospace" font-size="22">@asmitsr</text>
   <line x1="56" y1="350" x2="528" y2="350" stroke="#334155" stroke-width="1"/>
   <text x="56" y="400" fill="#F1F5F9" font-family="sans-serif" font-size="21">Building useful digital</text>
   <text x="56" y="432" fill="#F1F5F9" font-family="sans-serif" font-size="21">experiences.</text>
@@ -52,6 +56,6 @@
     <circle cx="642" cy="380" r="5" fill="#E4CB87"/><text x="660" y="388" fill="#E4CB87" font-size="14" letter-spacing="2">CORE</text><text x="660" y="420" fill="#F1F5F9" font-size="19">Kotlin, HTML</text>
     <circle cx="642" cy="484" r="5" fill="#22D3EE"/><text x="660" y="492" fill="#22D3EE" font-size="14" letter-spacing="2">TOOLCHAIN</text><text x="660" y="524" fill="#F1F5F9" font-size="19">Kotlin / Android / HTML</text>
     <circle cx="642" cy="588" r="5" fill="#F472B6"/><text x="660" y="596" fill="#F472B6" font-size="14" letter-spacing="2">FOCUS</text><text x="660" y="628" fill="#F1F5F9" font-size="19">AI Automation</text>
-    <circle cx="642" cy="692" r="5" fill="#A855F7"/><text x="660" y="700" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="732" fill="#F1F5F9" font-size="19">10 public / 13 total</text>
+    <circle cx="642" cy="692" r="5" fill="#A855F7"/><text x="660" y="700" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="732" fill="#F1F5F9" font-size="19">5 public / 14 total</text>
   </g>
 </svg>
