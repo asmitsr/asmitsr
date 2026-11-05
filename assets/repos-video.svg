@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 656" width="1200" height="656" role="img" aria-label="Public repositories">
 <rect x="0" y="0" width="1200" height="656" fill="#0B1120"/>
 <rect x="8" y="8" width="1184" height="640" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
-<text x="60" y="64" fill="#F1F5F9" font-family="sans-serif" font-size="26" font-weight="700">REPOSITORIES — PUBLIC ONLY (7)</text>
+<text x="60" y="64" fill="#F1F5F9" font-family="sans-serif" font-size="26" font-weight="700">REPOSITORIES — PUBLIC ONLY (8)</text>
 <rect x="24" y="90" width="560" height="120" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
 <circle cx="60" cy="126" r="16" fill="none" stroke="#A97BFF" stroke-width="7"/><circle cx="60" cy="126" r="5" fill="#A97BFF"/>
 <text x="88" y="132" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">DoremanAI</text>
@@ -37,4 +37,9 @@
 <text x="88" y="540" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">asmit-mcp-server</text>
 <text x="88" y="566" fill="#A855F7" font-family="monospace" font-size="14">Python  ·  ★ 1</text>
 <text x="48" y="598" fill="#94A3B8" font-family="sans-serif" font-size="14">Small, safe MCP server, installable from GitHub.</text>
+<rect x="608" y="498" width="560" height="120" rx="16" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+<circle cx="644" cy="534" r="16" fill="none" stroke="#34D399" stroke-width="7"/><circle cx="644" cy="534" r="5" fill="#34D399"/>
+<text x="672" y="540" fill="#F1F5F9" font-family="sans-serif" font-size="20" font-weight="700">Portfolio</text>
+<text x="672" y="566" fill="#34D399" font-family="monospace" font-size="14">HTML  ·  ★ 0</text>
+<text x="632" y="598" fill="#94A3B8" font-family="sans-serif" font-size="14">Personal developer portfolio website.</text>
 </svg>
