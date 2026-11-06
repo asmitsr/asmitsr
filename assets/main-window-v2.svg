@@ -56,6 +56,6 @@
     <circle cx="642" cy="380" r="5" fill="#E4CB87"/><text x="660" y="388" fill="#E4CB87" font-size="14" letter-spacing="2">CORE</text><text x="660" y="420" fill="#F1F5F9" font-size="19">Kotlin, HTML</text>
     <circle cx="642" cy="484" r="5" fill="#22D3EE"/><text x="660" y="492" fill="#22D3EE" font-size="14" letter-spacing="2">TOOLCHAIN</text><text x="660" y="524" fill="#F1F5F9" font-size="19">Kotlin / Android / HTML</text>
     <circle cx="642" cy="588" r="5" fill="#F472B6"/><text x="660" y="596" fill="#F472B6" font-size="14" letter-spacing="2">FOCUS</text><text x="660" y="628" fill="#F1F5F9" font-size="19">AI Automation</text>
-    <circle cx="642" cy="692" r="5" fill="#A855F7"/><text x="660" y="700" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="732" fill="#F1F5F9" font-size="19">8 public / 17 total</text>
+    <circle cx="642" cy="692" r="5" fill="#A855F7"/><text x="660" y="700" fill="#C084FC" font-size="14" letter-spacing="2">REPOS</text><text x="660" y="732" fill="#F1F5F9" font-size="19">9 public / 18 total</text>
   </g>
 </svg>
