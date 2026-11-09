@@ -1,40 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="308" viewBox="0 0 720 308" role="img">
 <defs>
 <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
 <feDropShadow dx="0" dy="5" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/>
 </filter>
-<clipPath id="panel"><rect x="8" y="8" width="1184" height="284" rx="14"/></clipPath>
+<clipPath id="panel"><rect x="8" y="8" width="704" height="292" rx="14"/></clipPath>
 </defs>
-<rect x="8" y="8" width="1184" height="284" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D1D9E0" stroke-width="1" filter="url(#shadow)"/>
-<g clip-path="url(#panel)">
-<polygon points="8,8 480,8 280,300 8,300" fill="#D1D9E0" opacity="0.28"/>
-</g>
-<rect x="48" y="40" width="12" height="12" fill="#D6B84A"/>
-<text x="68" y="52" font-family="'IBM Plex Mono', monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#1F2328">TOP LANGUAGES</text>
-<text x="1152" y="52" text-anchor="end" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="2" fill="#57606A">BY PUBLIC REPOSITORY</text>
-<text x="48" y="100" font-family="'Inter', sans-serif" font-size="20" fill="#1F2328">HTML</text>
-<rect x="244" y="92" width="700" height="10" rx="5" fill="#E5E8EB"/>
-<rect x="244" y="92" width="700" height="10" rx="5" fill="#D6B84A"/>
-<rect x="244" y="92" width="700" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.35"/>
-<text x="964" y="100" font-family="'IBM Plex Mono', monospace" font-size="16" fill="#57606A">4 repos · 36%</text>
-<text x="48" y="142" font-family="'Inter', sans-serif" font-size="20" fill="#1F2328">Python</text>
-<rect x="244" y="134" width="700" height="10" rx="5" fill="#E5E8EB"/>
-<rect x="244" y="134" width="350" height="10" rx="5" fill="#6E7781"/>
-<rect x="244" y="134" width="350" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.35"/>
-<text x="964" y="142" font-family="'IBM Plex Mono', monospace" font-size="16" fill="#57606A">2 repos · 18%</text>
-<text x="48" y="184" font-family="'Inter', sans-serif" font-size="20" fill="#1F2328">Kotlin</text>
-<rect x="244" y="176" width="700" height="10" rx="5" fill="#E5E8EB"/>
-<rect x="244" y="176" width="175" height="10" rx="5" fill="#B7C9B1"/>
-<rect x="244" y="176" width="175" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.35"/>
-<text x="964" y="184" font-family="'IBM Plex Mono', monospace" font-size="16" fill="#57606A">1 repos · 9%</text>
-<text x="48" y="226" font-family="'Inter', sans-serif" font-size="20" fill="#1F2328">TypeScript</text>
-<rect x="244" y="218" width="700" height="10" rx="5" fill="#E5E8EB"/>
-<rect x="244" y="218" width="175" height="10" rx="5" fill="#9DA7B0"/>
-<rect x="244" y="218" width="175" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.35"/>
-<text x="964" y="226" font-family="'IBM Plex Mono', monospace" font-size="16" fill="#57606A">1 repos · 9%</text>
-<text x="48" y="268" font-family="'Inter', sans-serif" font-size="20" fill="#1F2328">JavaScript</text>
-<rect x="244" y="260" width="700" height="10" rx="5" fill="#E5E8EB"/>
-<rect x="244" y="260" width="175" height="10" rx="5" fill="#C4CCD4"/>
-<rect x="244" y="260" width="175" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.35"/>
-<text x="964" y="268" font-family="'IBM Plex Mono', monospace" font-size="16" fill="#57606A">1 repos · 9%</text>
+<rect x="8" y="8" width="704" height="292" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D1D9E0" stroke-width="1" filter="url(#shadow)"/>
+<g clip-path="url(#panel)"><polygon points="8,8 400,8 220,308 8,308" fill="#D1D9E0" opacity="0.28"/></g>
+<rect x="48" y="42" width="12" height="12" fill="#D6B84A"/>
+<text x="68" y="56" font-family="'IBM Plex Mono', monospace" font-size="20" letter-spacing="2" fill="#57606A">TOP LANGUAGES</text>
+<text x="672" y="56" text-anchor="end" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#6E7781">BY PUBLIC REPOSITORY</text>
+<text x="48" y="100" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">HTML</text>
+<rect x="180" y="91" width="380" height="12" rx="6" fill="#E8EDF5"/>
+<rect x="180" y="91" width="137" height="12" rx="6" fill="#D6B84A"/>
+<text x="672" y="100" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">4 repos · 36%</text>
+<text x="48" y="144" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Python</text>
+<rect x="180" y="135" width="380" height="12" rx="6" fill="#E8EDF5"/>
+<rect x="180" y="135" width="68" height="12" rx="6" fill="#6E7781"/>
+<text x="672" y="144" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">2 repos · 18%</text>
+<text x="48" y="188" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Kotlin</text>
+<rect x="180" y="179" width="380" height="12" rx="6" fill="#E8EDF5"/>
+<rect x="180" y="179" width="34" height="12" rx="6" fill="#B7C9B1"/>
+<text x="672" y="188" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
+<text x="48" y="232" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">TypeScript</text>
+<rect x="180" y="223" width="380" height="12" rx="6" fill="#E8EDF5"/>
+<rect x="180" y="223" width="34" height="12" rx="6" fill="#6E7781"/>
+<text x="672" y="232" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
+<text x="48" y="276" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">JavaScript</text>
+<rect x="180" y="267" width="380" height="12" rx="6" fill="#E8EDF5"/>
+<rect x="180" y="267" width="34" height="12" rx="6" fill="#D6B84A"/>
+<text x="672" y="276" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
 </svg>

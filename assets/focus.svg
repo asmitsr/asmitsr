@@ -1,38 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="648" viewBox="0 0 1200 648" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="836" viewBox="0 0 720 836" role="img">
 <defs>
 <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
 <feDropShadow dx="0" dy="5" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/>
 </filter>
-<clipPath id="panel"><rect x="8" y="8" width="1184" height="632" rx="14"/></clipPath>
+<clipPath id="panel"><rect x="8" y="8" width="704" height="820" rx="14"/></clipPath>
 </defs>
-<rect x="8" y="8" width="1184" height="632" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D1D9E0" stroke-width="1" filter="url(#shadow)"/><g clip-path="url(#panel)"><polygon points="8,8 480,8 280,648 8,648" fill="#D1D9E0" opacity="0.28"/></g>
-<text x="48" y="66" font-family="'Sora', sans-serif" font-size="28" font-weight="700" fill="#1F2328">🎯 Current Focus</text>
-<text x="48" y="118" font-family="'Sora', sans-serif" font-size="20" font-weight="700" fill="#1F2328">Learning:</text>
-<circle cx="56" cy="144" r="4" fill="#D6B84A"/>
-<text x="72" y="150" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Programming &amp; coding</text>
-<circle cx="56" cy="174" r="4" fill="#D6B84A"/>
-<text x="72" y="180" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Web &amp; Android development</text>
-<circle cx="56" cy="204" r="4" fill="#D6B84A"/>
-<text x="72" y="210" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Cyber security</text>
-<text x="48" y="250" font-family="'Sora', sans-serif" font-size="20" font-weight="700" fill="#1F2328">Building:</text>
-<circle cx="56" cy="276" r="4" fill="#D6B84A"/>
-<text x="72" y="282" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Web applications &amp; Android apps</text>
-<circle cx="56" cy="306" r="4" fill="#D6B84A"/>
-<text x="72" y="312" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">AI-powered tools &amp; automation</text>
-<circle cx="56" cy="336" r="4" fill="#D6B84A"/>
-<text x="72" y="342" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Public showcase of my projects</text>
-<text x="48" y="382" font-family="'Sora', sans-serif" font-size="20" font-weight="700" fill="#1F2328">Exploring:</text>
-<circle cx="56" cy="408" r="4" fill="#D6B84A"/>
-<text x="72" y="414" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">AI automation</text>
-<circle cx="56" cy="438" r="4" fill="#D6B84A"/>
-<text x="72" y="444" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Cyber security</text>
-<circle cx="56" cy="468" r="4" fill="#D6B84A"/>
-<text x="72" y="474" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Open-source collaboration</text>
-<text x="48" y="514" font-family="'Sora', sans-serif" font-size="20" font-weight="700" fill="#1F2328">Open To:</text>
-<circle cx="56" cy="540" r="4" fill="#D6B84A"/>
-<text x="72" y="546" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Freelance projects</text>
-<circle cx="56" cy="570" r="4" fill="#D6B84A"/>
-<text x="72" y="576" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Open-source collaborations</text>
-<circle cx="56" cy="600" r="4" fill="#D6B84A"/>
-<text x="72" y="606" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Tech opportunities</text>
+<rect x="8" y="8" width="704" height="820" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D1D9E0" stroke-width="1" filter="url(#shadow)"/>
+<g clip-path="url(#panel)"><polygon points="8,8 400,8 220,836 8,836" fill="#D1D9E0" opacity="0.28"/></g>
+<text x="48" y="68" font-family="'Sora', sans-serif" font-size="38" font-weight="700" fill="#1F2328">🎯 Current Focus</text>
+<text x="48" y="128" font-family="'Sora', sans-serif" font-size="28" font-weight="700" fill="#1F2328">Learning:</text>
+<circle cx="56" cy="163" r="5" fill="#D6B84A"/>
+<text x="76" y="172" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Programming &amp; coding</text>
+<circle cx="56" cy="207" r="5" fill="#D6B84A"/>
+<text x="76" y="216" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Web &amp; Android development</text>
+<circle cx="56" cy="251" r="5" fill="#D6B84A"/>
+<text x="76" y="260" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Cyber security</text>
+<text x="48" y="308" font-family="'Sora', sans-serif" font-size="28" font-weight="700" fill="#1F2328">Building:</text>
+<circle cx="56" cy="343" r="5" fill="#D6B84A"/>
+<text x="76" y="352" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Web applications &amp; Android apps</text>
+<circle cx="56" cy="387" r="5" fill="#D6B84A"/>
+<text x="76" y="396" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">AI-powered tools &amp; automation</text>
+<circle cx="56" cy="431" r="5" fill="#D6B84A"/>
+<text x="76" y="440" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Public showcase of my projects</text>
+<text x="48" y="488" font-family="'Sora', sans-serif" font-size="28" font-weight="700" fill="#1F2328">Exploring:</text>
+<circle cx="56" cy="523" r="5" fill="#D6B84A"/>
+<text x="76" y="532" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">AI automation</text>
+<circle cx="56" cy="567" r="5" fill="#D6B84A"/>
+<text x="76" y="576" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Cyber security</text>
+<circle cx="56" cy="611" r="5" fill="#D6B84A"/>
+<text x="76" y="620" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Open-source collaboration</text>
+<text x="48" y="668" font-family="'Sora', sans-serif" font-size="28" font-weight="700" fill="#1F2328">Open To:</text>
+<circle cx="56" cy="703" r="5" fill="#D6B84A"/>
+<text x="76" y="712" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Freelance projects</text>
+<circle cx="56" cy="747" r="5" fill="#D6B84A"/>
+<text x="76" y="756" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Open-source collaborations</text>
+<circle cx="56" cy="791" r="5" fill="#D6B84A"/>
+<text x="76" y="800" font-family="'Inter', sans-serif" font-size="26" fill="#1F2328">Tech opportunities</text>
 </svg>
