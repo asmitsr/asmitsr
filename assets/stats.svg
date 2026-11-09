@@ -15,7 +15,7 @@
 <line x1="797" y1="48" x2="797" y2="162" stroke="#D1D9E0" stroke-width="1"/>
 <line x1="995" y1="48" x2="995" y2="162" stroke="#D1D9E0" stroke-width="1"/>
 <rect x="95" y="48" width="24" height="3" fill="#D6B84A"/>
-<text x="107" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">599</text>
+<text x="107" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">601</text>
 <text x="107" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">CONTRIBUTIONS</text>
 <text x="107" y="166" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="12" letter-spacing="1" fill="#6E7781">LAST YEAR</text>
 <rect x="292" y="48" width="24" height="3" fill="#D6B84A"/>
@@ -24,6 +24,7 @@
 <rect x="489" y="48" width="24" height="3" fill="#D6B84A"/>
 <text x="501" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">11 days</text>
 <text x="501" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">LONGEST STREAK</text>
+<text x="501" y="166" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="12" letter-spacing="1" fill="#6E7781">30 OCT – 9 NOV 2026</text>
 <rect x="687" y="48" width="24" height="3" fill="#D6B84A"/>
 <text x="699" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">11</text>
 <text x="699" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">PUBLIC REPOS</text>
