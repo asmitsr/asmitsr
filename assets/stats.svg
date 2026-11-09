@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img">
+<defs>
+<filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
+<feDropShadow dx="0" dy="5" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/>
+</filter>
+<clipPath id="panel"><rect x="8" y="8" width="1184" height="194" rx="14"/></clipPath>
+</defs>
+<rect x="8" y="8" width="1184" height="194" rx="14" fill="#FFFFFF" fill-opacity="0.9" stroke="#D1D9E0" stroke-width="1" filter="url(#shadow)"/>
+<g clip-path="url(#panel)">
+<polygon points="8,8 480,8 280,210 8,210" fill="#D1D9E0" opacity="0.28"/>
+</g>
+<line x1="205" y1="48" x2="205" y2="162" stroke="#D1D9E0" stroke-width="1"/>
+<line x1="403" y1="48" x2="403" y2="162" stroke="#D1D9E0" stroke-width="1"/>
+<line x1="600" y1="48" x2="600" y2="162" stroke="#D1D9E0" stroke-width="1"/>
+<line x1="797" y1="48" x2="797" y2="162" stroke="#D1D9E0" stroke-width="1"/>
+<line x1="995" y1="48" x2="995" y2="162" stroke="#D1D9E0" stroke-width="1"/>
+<rect x="95" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="107" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">599</text>
+<text x="107" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">CONTRIBUTIONS</text>
+<text x="107" y="166" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="12" letter-spacing="1" fill="#6E7781">LAST YEAR</text>
+<rect x="292" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="304" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">11 days</text>
+<text x="304" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">CURRENT STREAK</text>
+<rect x="489" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="501" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">11 days</text>
+<text x="501" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">LONGEST STREAK</text>
+<rect x="687" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="699" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">11</text>
+<text x="699" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">PUBLIC REPOS</text>
+<rect x="884" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="896" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">13</text>
+<text x="896" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">STARS</text>
+<rect x="1081" y="48" width="24" height="3" fill="#D6B84A"/>
+<text x="1093" y="104" text-anchor="middle" font-family="'Roboto Mono', monospace" font-size="40" font-weight="700" fill="#1F2328">5</text>
+<text x="1093" y="142" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#57606A">FOLLOWERS</text>
+</svg>
