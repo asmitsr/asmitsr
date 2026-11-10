@@ -26,7 +26,7 @@ I'm Asmit Sarkar, a Web & Android Developer based in Chattogram, Bangladesh. I e
 
 ## GitHub Analytics
 
-<img src="assets/stats.svg?v=2" alt="GitHub statistics: 605 contributions in 2026, 12 day current streak, 12 day longest streak (30 Oct – 10 Nov 2026), 11 public repositories, 14 stars, 5 followers" />
+<img src="assets/stats.svg?v=2" alt="GitHub statistics: 606 contributions in 2026, 12 day current streak, 12 day longest streak (30 Oct – 10 Nov 2026), 11 public repositories, 14 stars, 5 followers" />
 
 <img src="assets/languages.svg?v=2" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
 
@@ -40,39 +40,109 @@ _Statistics update daily from GitHub._
 
 <table>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>TeamForge</b><br/>Race-proof team formation for hackathons<br/><a href="https://teamforge-mu.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Secret Recipe</b><br/>Website for Secret Recipe Bangladesh<br/><a href="https://secret-recipe-phi.vercel.app">Visit Website →</a></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>TeamForge</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Secret Recipe</b></td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Board Rank</b><br/>Chattogram Board HSC 2026 rank list<br/><a href="https://ctgresult.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Showcase</b><br/>Public showcase of my projects<br/><a href="https://showcase-topaz-seven.vercel.app/">Visit Website →</a></td>
+    <td valign="top">Race-proof team formation for hackathons</td>
+    <td valign="top">Website for Secret Recipe Bangladesh</td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Portfolio</b><br/>My personal portfolio website<br/><a href="https://asmitsr.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Expense Splitter</b><br/>Split expenses with friends<br/><a href="https://expense-splitter-lovat-iota.vercel.app/">Visit Website →</a></td>
+    <td valign="top"><a href="https://teamforge-mu.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://secret-recipe-phi.vercel.app">Visit Website →</a></td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Skill DNA</b><br/>GitHub skill analyzer — verifiable skill evidence<br/><a href="https://skill-dna-vert.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>IELTS Pathway</b><br/>IELTS preparation site with a 60-day planner<br/><a href="https://ielts-pathway-fccu.vercel.app">Visit Website →</a></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Board Rank</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Showcase</b></td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Password Leak Checker</b><br/>Check if a password or email appeared in data breaches<br/><a href="https://password-leak-checker.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Lumen Garden</b><br/>Canvas arcade game — defend the garden, chase your best score<br/><a href="https://lumen-garden-y1ra.vercel.app">Visit Website →</a></td>
+    <td valign="top">Chattogram Board HSC 2026 rank list</td>
+    <td valign="top">Public showcase of my projects</td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Result Checker</b><br/>HSC results and full marksheet in one site<br/><a href="https://hsc-result-checker.vercel.app">Visit Website →</a></td>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Tracker</b><br/>HSC syllabus tracker<br/><a href="https://hsc-tracker-three.vercel.app/">Visit Website →</a></td>
+    <td valign="top"><a href="https://ctgresult.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://showcase-topaz-seven.vercel.app/">Visit Website →</a></td>
   </tr>
   <tr>
-    <td><img src="assets/icon-app.svg" width="24" height="24" /> <b>DoremanAI</b><br/>Android voice-controlled personal assistant<br/><a href="https://github.com/asmitsr/DoremanAI/releases/tag/latest-apk">Download APK ↓</a></td>
-    <td><img src="assets/icon-app.svg" width="24" height="24" /> <b>SUST OR DIE</b><br/>Personal study-planner Android app<br/><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk">Download APK ↓</a></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Portfolio</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Expense Splitter</b></td>
   </tr>
   <tr>
-    <td><img src="assets/icon-app.svg" width="24" height="24" /> <b>Akshoraloy</b><br/>Library app — my very first project<br/><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK ↓</a></td>
-    <td><img src="assets/icon-app.svg" width="24" height="24" /> <b>Minimal Launcher</b><br/>Minimal Android launcher<br/><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/minimal-launcher.apk">Download APK ↓</a></td>
+    <td valign="top">My personal portfolio website</td>
+    <td valign="top">Split expenses with friends</td>
   </tr>
   <tr>
-    <td><img src="assets/icon-web.svg" width="24" height="24" /> <b>Chattogram Puja</b><br/>Durga Puja pandal guide, interactive map & schedule<br/><a href="https://chattogram-puja.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://asmitsr.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://expense-splitter-lovat-iota.vercel.app/">Visit Website →</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Skill DNA</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>IELTS Pathway</b></td>
+  </tr>
+  <tr>
+    <td valign="top">GitHub skill analyzer — verifiable skill evidence</td>
+    <td valign="top">IELTS preparation site with a 60-day planner</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://skill-dna-vert.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://ielts-pathway-fccu.vercel.app">Visit Website →</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Password Leak Checker</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Lumen Garden</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Check if a password or email appeared in data breaches</td>
+    <td valign="top">Canvas arcade game — defend the garden, chase your best score</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://password-leak-checker.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://lumen-garden-y1ra.vercel.app">Visit Website →</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Result Checker</b></td>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Tracker</b></td>
+  </tr>
+  <tr>
+    <td valign="top">HSC results and full marksheet in one site</td>
+    <td valign="top">HSC syllabus tracker</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://hsc-result-checker.vercel.app">Visit Website →</a></td>
+    <td valign="top"><a href="https://hsc-tracker-three.vercel.app/">Visit Website →</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>DoremanAI</b></td>
+    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>SUST OR DIE</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Android voice-controlled personal assistant</td>
+    <td valign="top">Personal study-planner Android app</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/asmitsr/DoremanAI/releases/tag/latest-apk">Download APK ↓</a></td>
+    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk">Download APK ↓</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>Akshoraloy</b></td>
+    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>Minimal Launcher</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Library app — my very first project</td>
+    <td valign="top">Minimal Android launcher</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK ↓</a></td>
+    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/minimal-launcher.apk">Download APK ↓</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Chattogram Puja</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Durga Puja pandal guide, interactive map & schedule</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://chattogram-puja.vercel.app">Visit Website →</a></td>
   </tr>
 </table>
 
