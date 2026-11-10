@@ -1,6 +1,6 @@
 I'm Asmit Sarkar, a Web & Android Developer based in Chattogram, Bangladesh. I enjoy turning ideas into useful digital experiences — building web applications and Android apps that solve real problems. I'm currently focused on learning programming and coding, with a growing interest in cyber security.
 
-<img src="assets/focus.svg?v=2" alt="Current Focus: learning programming and coding, web and Android development, cyber security; building web and Android apps, AI-powered tools and automation, public showcase of my projects; exploring AI automation, cyber security, open-source collaboration; open to freelance projects, open-source collaborations, tech opportunities" />
+<img src="assets/focus.svg?v=3" alt="Current Focus: learning programming and coding, web and Android development, cyber security; building web and Android apps, AI-powered tools and automation, public showcase of my projects; exploring AI automation, cyber security, open-source collaboration; open to freelance projects, open-source collaborations, tech opportunities" />
 
 ## Tech Stack
 
@@ -26,9 +26,9 @@ I'm Asmit Sarkar, a Web & Android Developer based in Chattogram, Bangladesh. I e
 
 ## GitHub Analytics
 
-<img src="assets/stats.svg?v=2" alt="GitHub statistics: 606 contributions in 2026, 12 day current streak, 12 day longest streak (30 Oct – 10 Nov 2026), 11 public repositories, 14 stars, 5 followers" />
+<img src="assets/stats.svg?v=3" alt="GitHub statistics: 607 contributions in 2026, 12 day current streak, 12 day longest streak (30 Oct – 10 Nov 2026), 11 public repositories, 14 stars, 5 followers" />
 
-<img src="assets/languages.svg?v=2" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
+<img src="assets/languages.svg?v=3" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
 
 _Statistics update daily from GitHub._
 
