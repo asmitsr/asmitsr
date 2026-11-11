@@ -26,9 +26,9 @@ I'm Asmit Sarkar, a Web & Android Developer based in Chattogram, Bangladesh. I e
 
 ## GitHub Analytics
 
-<img src="assets/stats.svg?v=6" alt="GitHub statistics: 659 contributions in 2026, 13 day current streak, 13 day longest streak (30 Oct – 11 Nov 2026), 12 public repositories, 15 stars, 5 followers" />
+<img src="assets/stats.svg?v=7" alt="GitHub statistics: 677 contributions in 2026, 13 day current streak, 13 day longest streak (30 Oct – 11 Nov 2026), 11 public repositories, 14 stars, 8 followers" />
 
-<img src="assets/languages.svg?v=4" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
+<img src="assets/languages.svg?v=5" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
 
 _Statistics update daily from GitHub._
 
