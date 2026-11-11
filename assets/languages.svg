@@ -12,22 +12,22 @@
 <text x="672" y="56" text-anchor="end" font-family="'IBM Plex Mono', monospace" font-size="14" letter-spacing="1" fill="#6E7781">BY PUBLIC REPOSITORY</text>
 <text x="48" y="100" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">HTML</text>
 <rect x="180" y="91" width="380" height="12" rx="6" fill="#E8EDF5"/>
-<rect x="180" y="91" width="137" height="12" rx="6" fill="#D6B84A"/>
-<text x="672" y="100" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">4 repos · 36%</text>
+<rect x="180" y="91" width="160" height="12" rx="6" fill="#D6B84A"/>
+<text x="672" y="100" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">5 repos · 42%</text>
 <text x="48" y="144" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Python</text>
 <rect x="180" y="135" width="380" height="12" rx="6" fill="#E8EDF5"/>
-<rect x="180" y="135" width="68" height="12" rx="6" fill="#6E7781"/>
-<text x="672" y="144" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">2 repos · 18%</text>
+<rect x="180" y="135" width="65" height="12" rx="6" fill="#6E7781"/>
+<text x="672" y="144" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">2 repos · 17%</text>
 <text x="48" y="188" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">Kotlin</text>
 <rect x="180" y="179" width="380" height="12" rx="6" fill="#E8EDF5"/>
-<rect x="180" y="179" width="34" height="12" rx="6" fill="#B7C9B1"/>
-<text x="672" y="188" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
+<rect x="180" y="179" width="30" height="12" rx="6" fill="#B7C9B1"/>
+<text x="672" y="188" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 8%</text>
 <text x="48" y="232" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">TypeScript</text>
 <rect x="180" y="223" width="380" height="12" rx="6" fill="#E8EDF5"/>
-<rect x="180" y="223" width="34" height="12" rx="6" fill="#6E7781"/>
-<text x="672" y="232" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
+<rect x="180" y="223" width="30" height="12" rx="6" fill="#6E7781"/>
+<text x="672" y="232" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 8%</text>
 <text x="48" y="276" font-family="'Inter', sans-serif" font-size="18" fill="#1F2328">JavaScript</text>
 <rect x="180" y="267" width="380" height="12" rx="6" fill="#E8EDF5"/>
-<rect x="180" y="267" width="34" height="12" rx="6" fill="#D6B84A"/>
-<text x="672" y="276" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 9%</text>
+<rect x="180" y="267" width="30" height="12" rx="6" fill="#D6B84A"/>
+<text x="672" y="276" text-anchor="end" font-family="'Inter', sans-serif" font-size="16" fill="#57606A">1 repo · 8%</text>
 </svg>
