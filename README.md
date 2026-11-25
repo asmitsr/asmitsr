@@ -9,7 +9,3 @@
 <p align="center"><img src="assets/water-chemistry.svg" alt="Water Chemistry — HTML 86%, Kotlin 6%, TypeScript 5%, JavaScript 1%, PLpgSQL 1%" /></p>
 
 <p align="center"><img src="assets/tide-chart.svg" alt="Tide Chart — 26-day streak, 724 contributions in 2026" /></p>
-
-<p align="center"><a href="https://github.com/asmitsr">GitHub</a> · <a href="https://asmitsr.vercel.app">Website</a></p>
-
-<p align="center"><sub>🐠 fish are repos · seaweed is contributions · bubbles are the last 30 days</sub></p>
