@@ -7,7 +7,7 @@
 <text x="24" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#eceff4">DoremanAI</text>
 <text x="24" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#a7b2c2">Android voice-controlled personal</text><text x="24" y="101" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#a7b2c2">assistant (Kotlin, single AI gateway)</text>
 <polygon points="30.0,121.5 31.6,125.8 36.2,126.0 32.6,128.8 33.8,133.3 30.0,130.7 26.2,133.3 27.4,128.8 23.8,126.0 28.4,125.8" fill="#ffc93c"/>
-<text x="41" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#eceff4">3</text>
+<text x="41" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#eceff4">2</text>
 <g stroke="#a7b2c2" stroke-width="1.4" fill="#a7b2c2"><circle cx="72" cy="123" r="1.9"/><circle cx="67.5" cy="132" r="1.9"/><circle cx="76.5" cy="132" r="1.9"/><line x1="72" y1="125" x2="67.5" y2="130"/><line x1="72" y1="125" x2="76.5" y2="130"/></g>
 <text x="82" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#eceff4">0</text>
 <circle cx="110" cy="128" r="5" fill="#a97bff"/>
