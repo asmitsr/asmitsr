@@ -1,155 +1,87 @@
-I'm Asmit Sarkar, a Web & Android Developer based in Chattogram, Bangladesh. I enjoy turning ideas into useful digital experiences — building web applications and Android apps that solve real problems. I'm currently focused on learning programming and coding, with a growing interest in cyber security.
+<p align="center"><img src="assets/aquarium.svg" alt="Aquarium — every fish is one of my repositories; the big ones have the most stars. Fish = repos, by stars; seaweed = contributions; bubbles = the last 30 days." /></p>
 
-<img src="assets/focus.svg?v=3" alt="Current Focus: learning programming and coding, web and Android development, cyber security; building web and Android apps, AI-powered tools and automation, public showcase of my projects; exploring AI automation, cyber security, open-source collaboration; open to freelance projects, open-source collaborations, tech opportunities" />
-
-## Tech Stack
-
-### Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-1F2328?style=flat&logo=kotlin&logoColor=7F52FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1F2328?style=flat&logo=python&logoColor=3776AB)
-![HTML](https://img.shields.io/badge/HTML-1F2328?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-1F2328?style=flat&logo=css&logoColor=1572B6)
-
-### Frameworks & Runtime
-
-![React](https://img.shields.io/badge/React-1F2328?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1F2328?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1F2328?style=flat&logo=nodedotjs&logoColor=339933)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-1F2328?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1F2328?style=flat&logo=vercel&logoColor=white)
-
-## GitHub Analytics
-
-<img src="assets/stats.svg?v=21" alt="GitHub statistics: 724 contributions in 2026, 26 day current streak, 26 day longest streak (30 Oct – 24 Nov 2026), 13 public repositories, 14 stars, 6 followers" />
-
-<img src="assets/languages.svg?v=7" alt="Top languages by public repository: HTML, Python, Kotlin, TypeScript, JavaScript" />
-
-_Statistics update daily from GitHub._
+<p><em>Every fish is one of my repositories; the big ones have the most stars.</em></p>
 
 <table>
   <tr>
-    <td>🚀 <b>Future Projects</b><br/><img src="assets/icon-server.svg" width="24" height="24" /> <b>asmit-mcp-server</b><br/>MCP server with 12 tools<br/><a href="https://github.com/asmitsr/asmit-mcp-server">View on GitHub →</a></td>
+    <td style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:20px 22px;">
+      <div style="font-size:11px;letter-spacing:2px;color:#A7B2C2;">TANK KEEPER</div>
+      <div style="font-size:22px;font-weight:700;color:#F4F3EF;margin:6px 0;">Asmit Sarkar</div>
+      <div style="font-size:14px;color:#A7B2C2;">Aspiring Developer | Web &amp; Android Development | AI Automation | Building useful digital experiences.</div>
+      <div style="font-size:13px;color:#A7B2C2;margin-top:10px;">📍 Chattogram, Bangladesh · 6 followers · 13 repositories · ★ 14 stars</div>
+    </td>
+    <td style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:20px;" align="center" width="140">
+      <img src="https://github.com/asmitsr.png" width="88" height="88" style="border-radius:50%;border:2px solid #344358;" alt="Asmit Sarkar" />
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>TeamForge</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Secret Recipe</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Race-proof team formation for hackathons</td>
-    <td valign="top">Website for Secret Recipe Bangladesh</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://teamforge-mu.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://secret-recipe-phi.vercel.app">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Board Rank</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Showcase</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Chattogram Board HSC 2026 rank list</td>
-    <td valign="top">Public showcase of my projects</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://ctgresult.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://showcase-topaz-seven.vercel.app/">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Portfolio</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Expense Splitter</b></td>
-  </tr>
-  <tr>
-    <td valign="top">My personal portfolio website</td>
-    <td valign="top">Split expenses with friends</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://asmitsr.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://expense-splitter-lovat-iota.vercel.app/">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Skill DNA</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>IELTS Pathway</b></td>
-  </tr>
-  <tr>
-    <td valign="top">GitHub skill analyzer — verifiable skill evidence</td>
-    <td valign="top">IELTS preparation site with a 60-day planner</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://skill-dna-vert.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://ielts-pathway-fccu.vercel.app">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Password Leak Checker</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Lumen Garden</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Check if a password or email appeared in data breaches</td>
-    <td valign="top">Canvas arcade game — defend the garden, chase your best score</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://password-leak-checker.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://lumen-garden-y1ra.vercel.app">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Result Checker</b></td>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>HSC Tracker</b></td>
-  </tr>
-  <tr>
-    <td valign="top">HSC results and full marksheet in one site</td>
-    <td valign="top">HSC syllabus tracker</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://hsc-result-checker.vercel.app">Visit Website →</a></td>
-    <td valign="top"><a href="https://hsc-tracker-three.vercel.app/">Visit Website →</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>DoremanAI</b></td>
-    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>SUST OR DIE</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Android voice-controlled personal assistant</td>
-    <td valign="top">Personal study-planner Android app</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/asmitsr/DoremanAI/releases/tag/latest-apk">Download APK ↓</a></td>
-    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk">Download APK ↓</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>Akshoraloy</b></td>
-    <td valign="top"><img src="assets/icon-app.svg" width="24" height="24" /> <b>Minimal Launcher</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Library app — my very first project</td>
-    <td valign="top">Minimal Android launcher</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK ↓</a></td>
-    <td valign="top"><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/minimal-launcher.apk">Download APK ↓</a></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="assets/icon-web.svg" width="24" height="24" /> <b>Chattogram Puja</b></td>
-  </tr>
-  <tr>
-    <td valign="top">Durga Puja pandal guide, interactive map & schedule</td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://chattogram-puja.vercel.app">Visit Website →</a></td>
+    <td style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:18px 20px;" width="50%">
+      <div style="font-size:11px;letter-spacing:2px;color:#A7B2C2;">SPECIMEN 01</div>
+      <div style="font-size:20px;margin:8px 0 4px;">🐠 <a href="https://github.com/asmitsr/DoremanAI" style="color:#F4F3EF;text-decoration:none;font-weight:700;">DoremanAI</a></div>
+      <div style="font-size:13px;color:#A7B2C2;">Android voice-controlled personal assistant (Kotlin, single AI gateway)</div>
+      <div style="font-size:13px;color:#A7B2C2;margin-top:12px;">★ 3 &nbsp;⑂ 0 &nbsp;&nbsp;<span style="color:#A97BFF;">●</span> Kotlin</div>
+    </td>
+    <td style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:18px 20px;" width="50%">
+      <div style="font-size:11px;letter-spacing:2px;color:#A7B2C2;">SPECIMEN 02</div>
+      <div style="font-size:20px;margin:8px 0 4px;">🐠 <a href="https://github.com/asmitsr/asmit-mcp-server" style="color:#F4F3EF;text-decoration:none;font-weight:700;">asmit-mcp-server</a></div>
+      <div style="font-size:13px;color:#A7B2C2;">MCP server with 12 tools</div>
+      <div style="font-size:13px;color:#A7B2C2;margin-top:12px;">★ 2 &nbsp;⑂ 0 &nbsp;&nbsp;<span style="color:#3572A5;">●</span> Python</div>
+    </td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://asmitsr.vercel.app">Portfolio</a> · <a href="https://github.com/asmitsr">GitHub</a> · <a href="https://www.linkedin.com/in/asmit-sarkar-4028bb449/">LinkedIn</a> · <a href="mailto:asmitsr.official@gmail.com">Email</a>
+<div style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:18px 20px;">
+  <div style="font-size:11px;letter-spacing:2px;color:#A7B2C2;">WATER CHEMISTRY</div>
+  <table style="width:100%;margin-top:10px;">
+    <tr>
+      <td style="color:#F4F3EF;font-size:14px;" width="130"><span style="color:#E34C26;">●</span> HTML</td>
+      <td><div style="background:#22344A;border-radius:6px;height:10px;"><div style="background:#4CC2FF;border-radius:6px;height:10px;width:86%;"></div></div></td>
+      <td style="color:#A7B2C2;font-size:14px;" align="right" width="48">86%</td>
+    </tr>
+    <tr>
+      <td style="color:#F4F3EF;font-size:14px;" width="130"><span style="color:#A97BFF;">●</span> Kotlin</td>
+      <td><div style="background:#22344A;border-radius:6px;height:10px;"><div style="background:#4CC2FF;border-radius:6px;height:10px;width:6%;"></div></div></td>
+      <td style="color:#A7B2C2;font-size:14px;" align="right" width="48">6%</td>
+    </tr>
+    <tr>
+      <td style="color:#F4F3EF;font-size:14px;" width="130"><span style="color:#3178C6;">●</span> TypeScript</td>
+      <td><div style="background:#22344A;border-radius:6px;height:10px;"><div style="background:#4CC2FF;border-radius:6px;height:10px;width:5%;"></div></div></td>
+      <td style="color:#A7B2C2;font-size:14px;" align="right" width="48">5%</td>
+    </tr>
+    <tr>
+      <td style="color:#F4F3EF;font-size:14px;" width="130"><span style="color:#F1E05A;">●</span> JavaScript</td>
+      <td><div style="background:#22344A;border-radius:6px;height:10px;"><div style="background:#4CC2FF;border-radius:6px;height:10px;width:1%;"></div></div></td>
+      <td style="color:#A7B2C2;font-size:14px;" align="right" width="48">1%</td>
+    </tr>
+    <tr>
+      <td style="color:#F4F3EF;font-size:14px;" width="130"><span style="color:#336791;">●</span> PLpgSQL</td>
+      <td><div style="background:#22344A;border-radius:6px;height:10px;"><div style="background:#4CC2FF;border-radius:6px;height:10px;width:1%;"></div></div></td>
+      <td style="color:#A7B2C2;font-size:14px;" align="right" width="48">1%</td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <sub>© 2026 Asmit Sarkar</sub>
+<div style="background:#192A40;border:1px solid #344358;border-radius:12px;padding:18px 20px;">
+  <div style="font-size:11px;letter-spacing:2px;color:#A7B2C2;">TIDE CHART</div>
+  <table style="width:100%;margin-top:12px;">
+    <tr>
+      <td valign="top"><img src="assets/tide-chart.svg" width="361" height="95" alt="Contribution heatmap, last 26 weeks — real data from github.com/users/asmitsr/contributions" /></td>
+      <td valign="top" style="padding-left:24px;">
+        <div style="font-size:11px;letter-spacing:1px;color:#A7B2C2;">DAYS SWIMMING</div>
+        <div style="font-size:22px;font-weight:700;color:#F4F3EF;">26 days</div>
+        <div style="font-size:11px;color:#A7B2C2;">30 Oct – 24 Nov 2026</div>
+        <div style="font-size:11px;letter-spacing:1px;color:#A7B2C2;margin-top:12px;">LONGEST SWIM</div>
+        <div style="font-size:22px;font-weight:700;color:#F4F3EF;">26 days</div>
+        <div style="font-size:11px;letter-spacing:1px;color:#A7B2C2;margin-top:12px;">BUBBLES THIS YEAR</div>
+        <div style="font-size:22px;font-weight:700;color:#F4F3EF;">724</div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center"><a href="https://github.com/asmitsr">GitHub</a> · <a href="https://asmitsr.vercel.app">Website</a></p>
+
+<p align="center"><sub>🐠 fish are repos · seaweed is contributions · bubbles are the last 30 days</sub></p>

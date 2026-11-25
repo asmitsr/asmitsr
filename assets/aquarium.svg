@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img">
+<defs>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e2f4d"/><stop offset="0.55" stop-color="#0a2237"/><stop offset="1" stop-color="#061726"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0" r="0.9"><stop offset="0" stop-color="#7cc4ff" stop-opacity="0.20"/><stop offset="1" stop-color="#7cc4ff" stop-opacity="0"/></radialGradient>
+<clipPath id="tank"><rect x="0" y="0" width="720" height="320" rx="18"/></clipPath>
+</defs>
+<rect x="0" y="0" width="720" height="320" rx="18" fill="url(#water)"/>
+<g clip-path="url(#tank)">
+<rect x="0" y="0" width="720" height="320" fill="url(#glow)"/>
+<polygon points="90,0 150,0 250,320 130,320" fill="#ffffff" opacity="0.045"/>
+<polygon points="300,0 340,0 430,320 330,320" fill="#ffffff" opacity="0.045"/>
+<polygon points="520,0 560,0 650,320 560,320" fill="#ffffff" opacity="0.045"/>
+<circle cx="60" cy="295" r="4.5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="12s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="12s" begin="-2s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="295" r="3" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="9s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="9s" begin="-5s" repeatCount="indefinite"/></circle>
+<circle cx="200" cy="295" r="5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="14s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="14s" begin="-1s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="295" r="2.5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="10s" begin="-7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="10s" begin="-7s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="295" r="4" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="13s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="13s" begin="-3s" repeatCount="indefinite"/></circle>
+<circle cx="400" cy="295" r="3" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="11s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="11s" begin="-6s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="295" r="5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="15s" begin="-0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="15s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="540" cy="295" r="2.5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="9s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="9s" begin="-4s" repeatCount="indefinite"/></circle>
+<circle cx="610" cy="295" r="4" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="12s" begin="-8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="12s" begin="-8s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="295" r="3" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="10s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="10s" begin="-2s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="295" r="2" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="8s" begin="-9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="8s" begin="-9s" repeatCount="indefinite"/></circle>
+<circle cx="360" cy="295" r="2" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="8s" begin="-11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="8s" begin="-11s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="295" r="2" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="8s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="8s" begin="-6s" repeatCount="indefinite"/></circle>
+<circle cx="90" cy="295" r="3.5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="11s" begin="-10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="11s" begin="-10s" repeatCount="indefinite"/></circle>
+<circle cx="580" cy="295" r="3.5" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="11s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="11s" begin="-1s" repeatCount="indefinite"/></circle>
+<circle cx="240" cy="295" r="3" fill="#bfe3ff" opacity="0.45"><animate attributeName="cy" values="295; 25" dur="9s" begin="-12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0; 0.5; 0" dur="9s" begin="-12s" repeatCount="indefinite"/></circle>
+<circle cx="150" cy="120" r="3" fill="#bfe3ff" opacity="0.35"/>
+<circle cx="300" cy="60" r="2.5" fill="#bfe3ff" opacity="0.35"/>
+<circle cx="450" cy="200" r="3.5" fill="#bfe3ff" opacity="0.35"/>
+<circle cx="620" cy="90" r="2.5" fill="#bfe3ff" opacity="0.35"/>
+<circle cx="80" cy="220" r="3" fill="#bfe3ff" opacity="0.35"/>
+<circle cx="520" cy="130" r="2" fill="#bfe3ff" opacity="0.35"/>
+<path d="M0,290 Q90,284 180,290 T360,290 T540,290 T720,290 L720,320 L0,320 Z" fill="#6b5433" opacity="0.92"/>
+<circle cx="120" cy="302" r="4" fill="#7d6540"/><circle cx="420" cy="306" r="5" fill="#7d6540"/><circle cx="640" cy="300" r="3.5" fill="#7d6540"/>
+<path d="M28,292 Q21,256.8 30,228 Q37,256.8 32,292 Z" fill="#2e8b57" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 28 292; 2 28 292; -2 28 292" dur="4s" repeatCount="indefinite"/></path>
+<path d="M95,292 Q88,248.0 97,212 Q104,248.0 99,292 Z" fill="#3cb371" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 95 292; 2 95 292; -2 95 292" dur="5s" repeatCount="indefinite"/></path>
+<path d="M130,292 Q123,260.1 132,234 Q139,260.1 134,292 Z" fill="#2fa36b" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 130 292; 2 130 292; -2 130 292" dur="6s" repeatCount="indefinite"/></path>
+<path d="M165,292 Q158,262.3 167,238 Q174,262.3 169,292 Z" fill="#2e8b57" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 165 292; 2 165 292; -2 165 292" dur="4s" repeatCount="indefinite"/></path>
+<path d="M235,292 Q228,252.4 237,220 Q244,252.4 239,292 Z" fill="#3cb371" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 235 292; 2 235 292; -2 235 292" dur="5s" repeatCount="indefinite"/></path>
+<path d="M310,292 Q303,264.5 312,242 Q319,264.5 314,292 Z" fill="#2e8b57" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 310 292; 2 310 292; -2 310 292" dur="6s" repeatCount="indefinite"/></path>
+<path d="M395,292 Q388,249.1 397,214 Q404,249.1 399,292 Z" fill="#2fa36b" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 395 292; 2 395 292; -2 395 292" dur="4s" repeatCount="indefinite"/></path>
+<path d="M480,292 Q473,259.0 482,232 Q489,259.0 484,292 Z" fill="#2e8b57" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 480 292; 2 480 292; -2 480 292" dur="5s" repeatCount="indefinite"/></path>
+<path d="M530,292 Q523,253.5 532,222 Q539,253.5 534,292 Z" fill="#3cb371" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 530 292; 2 530 292; -2 530 292" dur="6s" repeatCount="indefinite"/></path>
+<path d="M560,292 Q553,251.3 562,218 Q569,251.3 564,292 Z" fill="#2e8b57" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 560 292; 2 560 292; -2 560 292" dur="4s" repeatCount="indefinite"/></path>
+<path d="M665,292 Q658,261.2 667,236 Q674,261.2 669,292 Z" fill="#3cb371" opacity="0.9"><animateTransform attributeName="transform" type="rotate" values="-2 665 292; 2 665 292; -2 665 292" dur="5s" repeatCount="indefinite"/></path>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 9 0; 0 0" dur="5s" begin="0.0s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(150,78) scale(1,1)">
+<polygon points="-29.0,0 -42.0,-18 -42.0,18" fill="#795cad"/>
+<polygon points="-8,-14 6,-25 18,-14" fill="#795cad"/>
+<ellipse rx="29.0" ry="16" fill="#B388FF"/>
+<ellipse cx="-4.64" cy="7.2" rx="16.240000000000002" ry="6.72" fill="#ffffff" opacity="0.18"/>
+<circle cx="16.240000000000002" cy="-4.0" r="3.2" fill="#ffffff"/>
+<circle cx="17.040000000000003" cy="-4.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="150" y="108" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">asmit-mcp-serv…</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 12 0; 0 0" dur="6s" begin="-0.7s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(390,78) scale(-1,1)">
+<polygon points="-33.0,0 -46.0,-20 -46.0,20" fill="#ad483d"/>
+<polygon points="-8,-16 6,-27 18,-16" fill="#ad483d"/>
+<ellipse rx="33.0" ry="18" fill="#FF6B5B"/>
+<ellipse cx="-5.28" cy="8.1" rx="18.48" ry="7.56" fill="#ffffff" opacity="0.18"/>
+<circle cx="18.48" cy="-4.5" r="3.2" fill="#ffffff"/>
+<circle cx="19.28" cy="-4.5" r="1.6" fill="#10202f"/>
+</g>
+<text x="390" y="110" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">DoremanAI</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0" dur="7s" begin="-1.4s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(600,78) scale(1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#a66b07"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#a66b07"/>
+<ellipse rx="23.0" ry="12" fill="#F59E0B"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="600" y="104" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">portfolio</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 9 0; 0 0" dur="8s" begin="-2.0999999999999996s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(85,142) scale(1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#329657"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#329657"/>
+<ellipse rx="23.0" ry="12" fill="#4ADE80"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="85" y="168" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">asmitsr</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 12 0; 0 0" dur="5s" begin="-2.8s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(255,142) scale(-1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#2680a8"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#2680a8"/>
+<ellipse rx="23.0" ry="12" fill="#38BDF8"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="255" y="168" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">showcase</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0" dur="6s" begin="-3.5s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(430,142) scale(1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#ad8828"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#ad8828"/>
+<ellipse rx="23.0" ry="12" fill="#FFC93C"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="430" y="168" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">chattogram-puja</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 9 0; 0 0" dur="7s" begin="-4.199999999999999s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(605,142) scale(-1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#a22e2e"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#a22e2e"/>
+<ellipse rx="23.0" ry="12" fill="#EF4444"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="605" y="168" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">secret-recipe</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 12 0; 0 0" dur="8s" begin="-4.8999999999999995s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(135,206) scale(1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#1f857b"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#1f857b"/>
+<ellipse rx="23.0" ry="12" fill="#2EC4B6"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="135" y="232" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">expense-splitt…</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0" dur="5s" begin="-5.6s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(315,206) scale(-1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#ad486a"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#ad486a"/>
+<ellipse rx="23.0" ry="12" fill="#FF6B9D"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="315" y="232" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">teamforge</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 9 0; 0 0" dur="6s" begin="-6.3s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(480,206) scale(1,1)">
+<polygon points="-18.0,0 -31.0,-12 -31.0,12" fill="#6e9c24"/>
+<polygon points="-8,-8 6,-19 18,-8" fill="#6e9c24"/>
+<ellipse rx="18.0" ry="10" fill="#A3E635"/>
+<ellipse cx="-2.88" cy="4.5" rx="10.080000000000002" ry="4.2" fill="#ffffff" opacity="0.18"/>
+<circle cx="10.080000000000002" cy="-2.5" r="3.2" fill="#ffffff"/>
+<circle cx="10.880000000000003" cy="-2.5" r="1.6" fill="#10202f"/>
+</g>
+<text x="480" y="230" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">ielts-60-day-a…</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 12 0; 0 0" dur="7s" begin="-7.0s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(640,206) scale(-1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#ad6c2d"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#ad6c2d"/>
+<ellipse rx="23.0" ry="12" fill="#FF9F43"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="640" y="232" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">reporevive-sec…</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 15 0; 0 0" dur="8s" begin="-7.699999999999999s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(225,252) scale(-1,1)">
+<polygon points="-18.0,0 -31.0,-12 -31.0,12" fill="#4170aa"/>
+<polygon points="-8,-8 6,-19 18,-8" fill="#4170aa"/>
+<ellipse rx="18.0" ry="10" fill="#60A5FA"/>
+<ellipse cx="-2.88" cy="4.5" rx="10.080000000000002" ry="4.2" fill="#ffffff" opacity="0.18"/>
+<circle cx="10.080000000000002" cy="-2.5" r="3.2" fill="#ffffff"/>
+<circle cx="10.880000000000003" cy="-2.5" r="1.6" fill="#10202f"/>
+</g>
+<text x="225" y="276" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">openguard</text>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 9 0; 0 0" dur="5s" begin="-8.399999999999999s" repeatCount="indefinite" additive="sum"/>
+<g transform="translate(430,252) scale(1,1)">
+<polygon points="-23.0,0 -36.0,-14 -36.0,14" fill="#9d52a9"/>
+<polygon points="-8,-10 6,-21 18,-10" fill="#9d52a9"/>
+<ellipse rx="23.0" ry="12" fill="#E879F9"/>
+<ellipse cx="-3.68" cy="5.4" rx="12.88" ry="5.04" fill="#ffffff" opacity="0.18"/>
+<circle cx="12.88" cy="-3.0" r="3.2" fill="#ffffff"/>
+<circle cx="13.680000000000001" cy="-3.0" r="1.6" fill="#10202f"/>
+</g>
+<text x="430" y="278" text-anchor="middle" font-family="'IBM Plex Mono', monospace" font-size="10" fill="#cfe8ff">shobdo</text>
+</g>
+<text x="24" y="32" font-family="'IBM Plex Mono', monospace" font-size="13" letter-spacing="3" fill="#9fd4ff">AQUARIUM · @ASMTSR</text>
+<text x="696" y="310" text-anchor="end" font-family="'IBM Plex Mono', monospace" font-size="9.5" fill="#7fa8c9">fish = repos, by stars · seaweed = contributions · bubbles = the last 30 days</text>
+</g>
+</svg>
