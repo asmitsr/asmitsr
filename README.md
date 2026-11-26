@@ -8,4 +8,4 @@
 
 <p align="center"><img src="assets/water-chemistry.svg" alt="Water Chemistry — HTML 86%, Kotlin 6%, TypeScript 5%, JavaScript 1%, PLpgSQL 1%" /></p>
 
-<p align="center"><img src="assets/tide-chart.svg?v=1" alt="Tide Chart — 27-day streak, 732 contributions in 2026" /></p>
+<p align="center"><img src="assets/tide-chart.svg?v=2" alt="Tide Chart — 28-day streak, 802 contributions in 2026" /></p>
