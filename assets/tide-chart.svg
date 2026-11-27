@@ -131,12 +131,12 @@
 <rect x="238" y="84" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-03: 0 contributions</title></rect>
 <rect x="252" y="0" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-04: 0 contributions</title></rect>
 <rect x="252" y="14" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-05: 0 contributions</title></rect>
-<rect x="252" y="28" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-06: 1 contributions</title></rect>
-<rect x="252" y="42" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-07: 2 contributions</title></rect>
+<rect x="252" y="28" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-06: 0 contributions</title></rect>
+<rect x="252" y="42" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-07: 3 contributions</title></rect>
 <rect x="252" y="56" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-08: 0 contributions</title></rect>
 <rect x="252" y="70" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-09: 0 contributions</title></rect>
-<rect x="252" y="84" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-10: 1 contributions</title></rect>
-<rect x="266" y="0" width="11" height="11" rx="2" fill="#0891b2"><title>2026-10-11: 34 contributions</title></rect>
+<rect x="252" y="84" width="11" height="11" rx="2" fill="#14324a"><title>2026-10-10: 0 contributions</title></rect>
+<rect x="266" y="0" width="11" height="11" rx="2" fill="#0891b2"><title>2026-10-11: 35 contributions</title></rect>
 <rect x="266" y="14" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-12: 7 contributions</title></rect>
 <rect x="266" y="28" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-13: 3 contributions</title></rect>
 <rect x="266" y="42" width="11" height="11" rx="2" fill="#155e75"><title>2026-10-14: 10 contributions</title></rect>
@@ -164,8 +164,8 @@
 <rect x="308" y="56" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-05: 16 contributions</title></rect>
 <rect x="308" y="70" width="11" height="11" rx="2" fill="#0891b2"><title>2026-11-06: 33 contributions</title></rect>
 <rect x="308" y="84" width="11" height="11" rx="2" fill="#0891b2"><title>2026-11-07: 21 contributions</title></rect>
-<rect x="322" y="0" width="11" height="11" rx="2" fill="#67e8f9"><title>2026-11-08: 78 contributions</title></rect>
-<rect x="322" y="14" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-09: 11 contributions</title></rect>
+<rect x="322" y="0" width="11" height="11" rx="2" fill="#67e8f9"><title>2026-11-08: 77 contributions</title></rect>
+<rect x="322" y="14" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-09: 12 contributions</title></rect>
 <rect x="322" y="28" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-10: 17 contributions</title></rect>
 <rect x="322" y="42" width="11" height="11" rx="2" fill="#22d3ee"><title>2026-11-11: 55 contributions</title></rect>
 <rect x="322" y="56" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-12: 5 contributions</title></rect>
@@ -182,10 +182,10 @@
 <rect x="350" y="14" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-23: 5 contributions</title></rect>
 <rect x="350" y="28" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-24: 1 contributions</title></rect>
 <rect x="350" y="42" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-25: 13 contributions</title></rect>
-<rect x="350" y="56" width="11" height="11" rx="2" fill="#67e8f9"><title>2026-11-26: 64 contributions</title></rect>
-<rect x="350" y="70" width="11" height="11" rx="2" fill="#14324a"><title>2026-11-27: 0 contributions</title></rect>
+<rect x="350" y="56" width="11" height="11" rx="2" fill="#67e8f9"><title>2026-11-26: 65 contributions</title></rect>
+<rect x="350" y="70" width="11" height="11" rx="2" fill="#155e75"><title>2026-11-27: 12 contributions</title></rect>
 <rect x="350" y="84" width="11" height="11" rx="2" fill="#14324a"><title>2026-11-28: 0 contributions</title></rect>
 </g>
 <line x1="412" y1="34" x2="412" y2="156" stroke="#1d4e6e" stroke-width="1" opacity="0.6"/>
-<text x="436" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">DAYS SWIMMING</text><text x="436" y="59" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">28 days</text><text x="436" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">LONGEST SWIM</text><text x="436" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">28 days</text><text x="436" y="127" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">BUBBLES THIS YEAR</text><text x="436" y="151" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">802</text>
+<text x="436" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">DAYS SWIMMING</text><text x="436" y="59" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">29 days</text><text x="436" y="81" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">LONGEST SWIM</text><text x="436" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">29 days</text><text x="436" y="127" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#88c0d0">BUBBLES THIS YEAR</text><text x="436" y="151" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#eceff4">815</text>
 </svg>
