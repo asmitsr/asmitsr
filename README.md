@@ -6,6 +6,6 @@
 
 <p align="center"><a href="https://github.com/asmitsr/DoremanAI"><img src="assets/specimen-01.svg?v=1" width="49%" alt="Specimen 01 — DoremanAI" /></a> <a href="https://github.com/asmitsr/asmit-mcp-server"><img src="assets/specimen-02.svg?v=1" width="49%" alt="Specimen 02 — asmit-mcp-server" /></a></p>
 
-<p align="center"><img src="assets/water-chemistry.svg" alt="Water Chemistry — HTML 86%, Kotlin 6%, TypeScript 5%, JavaScript 1%, PLpgSQL 1%" /></p>
+<p align="center"><img src="assets/water-chemistry.svg?v=1" alt="Water Chemistry — HTML 85%, Kotlin 7%, TypeScript 5%, JavaScript 2%, PLpgSQL 1%" /></p>
 
-<p align="center"><img src="assets/tide-chart.svg?v=3" alt="Tide Chart — 29-day streak, 815 contributions in 2026" /></p>
+<p align="center"><img src="assets/tide-chart.svg?v=4" alt="Tide Chart — 30-day streak, 816 contributions in 2026" /></p>
